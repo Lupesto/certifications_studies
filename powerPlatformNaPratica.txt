@@ -1,0 +1,28 @@
+acessar
+https://make.powerapps.com/
+
+clicar
+inicie com arquivo EXCEL
+Na aba Novo
+	acessar arquivo deve estar na sua pasta do onedrive
+	excel e as imagens
+
+Criará por si um catálogo
+
+
+botão f5 para visualizar app
+Botão alt na própria tela de desenvolvimento serve para navegar no app
+
+todos aplicativos baseados em dados possuem as mesmas telas
+[img 1]
+telas: navegar, detalhes e edit
+Tela Navegar - essa tela é exibida por padrão. Nela, é possível procurar, classificar, pesquisar e atualizar os dados na fonte de dados. Na tela de navegação, você pode adicionar itens à fonte de dados; para isso, basta selecionar o sinal de adição (+).
+
+Tela Detalhes: a tela Detalhes mostra todas as informações sobre um único item. Nessa tela, é possível abrir um item para editá-lo ou excluí-lo.
+
+Tela Editar/criar: nessa tela, você pode editar um item existente ou criar um novo.
+
+listar opções do menu inserir
+[img 2]
+
+https://docs.microsoft.com/pt-br/learn/modules/build-app-solution/3-build-canvas-app

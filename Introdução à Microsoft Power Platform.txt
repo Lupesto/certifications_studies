@@ -1,0 +1,1566 @@
+O que o power platform faz?
+permite a criação de tecnologia personalizada
+
+
+todos da empresa conseguem trabalhar com dados?
+sim
+
+
+Quais os programa do Power platform?
+Power Apps, Power Automate, Power BI e Power Virtual Agents.
+
+Quantos recursos o powerplatform tem?
+4
+
+Para que serve o power apps?
+criação de aplicativos personalizados conforme a necessidade comercial
+
+Power apps: para quais dispositivos podemos criar uma aplicação?
+qualquer um, tanto web como móveis
+
+Caracterisca integração dados com powerapps:
+integração e interação simples com os dados, interface simples
+
+Como é a usabilidade do power apps?
+qualquer usuário consegue usa-lo
+
+
+Para que serve o power automate?
+criação de fluxos de trabalhos automatizados entre aplicativos e serviços
+automatização dos processos empresariais repetitivos
+
+
+Para quem são as soluções do power automate?
+pode ser usado para o individuo como empresas
+
+Quem consegue usar o power automate?
+Qualquer usário consegue utiliza-lo
+
+
+ Power BI (Business Intelligence)
+
+Para que serve o Power BI?
+analise de dados do negócio
+
+O que o Power BI nos permite fazer?
+visualizar dados com relatórios e paineis
+
+Qual vantagem do power BI no negócio?
+permite decisões rapidas e informadas
+
+
+O que power BI nos fornece ?
+analisar e gerar novos insights
+
+
+O que é insight?
+
+O que o power BI nos retorna?
+retorno dos dados do negócio e exibição de maneira adequada
+
+
+
+Qual aplicação do power apps nos permitiria: substituir uma reunião que definiria as novas metricas da empresa, como vendas, progressão das metas e desempenho de funcionários?
+
+
+-------------------------------------
+
+Para que serve o power virtual agents? 
+permite que qualquer um crie chatbots avançados
+
+Diferente de outros chatbots, o que o power virtual agents nos permite?
+não necessita de desenvolvedores + inteface gráfica guiada
+
+
+
+dá para integrar os aplicativos do power platform?
+Sim
+
+
+integração do bot com uma ação, quais aplicativos são usados?
+Power automate e power virtual agents
+
+Quais os recursos que servem para aumentar o potencial do power platform?
+AI Builder e Microsoft dataverse
+
+
+Para que serve o Ai Builder?
+permite os usuários e desenvolvedores adicionarem recursos de IA aos fluxos de trabalho do PowerApps
+prever resultados 
+
+
+Para que serve o microsoft dataverse?
+é um modelo de dados comum
+permite que os componentes funcionem juntos 
+
+
+O que o microsoft dataverse nos permite fazer?
+consolidação, exibição e manipulação dos dados
+
+
+
+Quantos conectores existe no power platform?
+mais de 275
+
+Para que servem os conectores?
+permitem conectar apps, dados e dispositivos na nuvem.
+
+qual a função dos conectores?
+ligam as informações aos comandos
+
+
+5 exemplos de conectores populares no power platform:
+Salesforce, Office 365, Twitter, Dropbox e serviços do Google
+
+
+-------
+Conectores de dados
+
+Qual analogia podemos utilizar para os conectores?
+são uma ponte entre da fonte de dados para o app ou fluxo de trabalho
+
+
+Quais os beneficios dos conectores?
+estender as soluções em várias plataformas + funcionalidade para os usuários
+
+
+quais os dois tipos de fontes de dados?
+dados tabulares e baseado em função
+
+O que são dados tabulares?
+retorna dados em um formato de tabela
+
+
+O que o power apps pode fazer com as fontes de dados tabulares?
+se permitido o power apps pode editar, alterar e excluir dados da fonte de dados
+exemplos: Microsoft Dataverse, o SharePoint e o SQL Server
+
+
+O que são dados baseados em função?
+que usam funções para interagir com fonte de dados
+
+
+O que podemos fazer com dados baseados em funções?
+usar funções que podem ser usadas para retornar uma tabela de dados
+é mais abrangente, podem por exemplo enviar email, atualizar permisão, criar evento de calendário...
+
+
+exemplos de dados baseados em funções:
+Usuários do Office 365, Project Online e Armazenamento de Blobs do Azure.
+
+
+
+-----
+
+Como são divididos os conectores?
+são divididos em padrão e premium.
+
+
+Quais exemplos de conectores padrão?
+são SharePoint, Outlook e YouTube
+
+
+Quais exemplos de conectores premium?
+ são SQL Server, Survey Monkey e Mail Chimp. 
+
+
+[não entendi]
+Appsource instalar app e usar conectores para serviços que não são da microsoft
+
+podem fornecer a entrada e saída para o platform
+[Dynamics 365]
+
+[SharePoint]
+
+serviços do azure também possuem conectores
+ex: oferece tecnicas avançadas de IA, leitura de textos ou serviços cognitivos como reconhecer rostos 
+
+
+tudo do platform pode ser integrado ao Microsoft 365
+no teams por exemplo  o usuário pode executar o power automate apartir de alguma ação feita no teams
+
+
+GATILHOS E AÇÕES
+
+1º estabelecemos uma fonte de dados e configuramos o conector
+
+operações que podemos fazer depois disso: gatilhos ou ações
+
+
+gatilhos - só usados no power automate
+podem ser baseados em tempo (ex: fluxo que começa todos os dias às 8am) ou pdoe ser uma ação como receber um email
+
+para que serve o gatilho: informa ao fluxo de trabalho quando ele deve ser executado
+
+
+Ações - usadas no power automate e power apps
+são solicitadas pelo usuário ou gatilho
+
+permite a interação com a fonte de dados por alguma função
+ex: ação pode enviar um email no seu fluxo de trabalho ou app
+
+[fluxo de trabalho]
+
+
+
+CONECTORES PERSONALIZADOS
+
+Quais possibilidades com conectores? 
+vc pode criar um conector personalizado
+pode chamar uma api
+
+
+Significado API
+API significa Interface de Programação de Aplicativo
+
+
+O que conectores nós permite fazer?
+conectores recebem e retornam informações por meio de apis
+
+
+
+------------------------------------------
+Prevenção contra perda de dados, conformidade, privacidade e acessibilidade
+
+
+Qual a responsabilidade do administrador em uma organização? 
+administrador é responsável pelos dados da organização
+
+
+O que os dados podem nos permitir? 
+uso dos apps e automação para usar os dados podem levar a empresa ao sucesso
+
+
+
+
+os usuários tb poderão executar ações que utilizam os dados em tempo real
+
+
+
+fonte de dados/serviços para os apps é cada vez maior
+
+quais tipos de dados e serviço?
+podem ser serviços terceirizados, externos e redes sociais
+
+
+os dados podem vazar para serviços e públicos alvo que não deveriam ter acesso a eles
+
+
+[o que é dlp]
+
+para que servem as políticas de prevenção contra perda de dados?
+ajudam que evite que os usuários exponham os dados da empresa acidentalmente
+
+
+seus níveis são definidos conforme o ambiente
+tornando flexivel as politicas criteriozas. Equilibrio entre proteção e produtividade.
+
+[nível locatário?]
+
+
+
+como podem ser classificados os conectores?
+comerciais e não comerciais
+
+
+conectores comerciais:
+hospedam dados de uso comercial
+
+
+conectores não comerciais:
+hospedam dados de uso pessoal
+
+
+
+Quando os conectores são classificados como bloqueados?
+conectores que desejamos restringir o uso
+
+Por padrão qual a classificação dos conectores quando uma nova política é criada?
+são colocados no grupo não comercial por padrão
+Depois podem ser definidos como comercial ou bloqueado
+
+
+[tirar dúvida sobre o terceiro paragráfo, ver se minhas questões estão corretas]
+quem pode criar uma política DLP?
+o administrador de locatário ou administrador de ambiente
+
+quando podemos gerenciar os conectores?
+ao criar ou modificar a política DLP 
+
+como modifica a política de DLP?
+No centro de administração da microsoft power platform
+
+----
+Conformidade e privacidade dos dados
+
+Quanto aos dados,  qual o compromisso da microsoft?
+altos níveis de segurança, transparência, conformidade com padrões e normas regulatórias
+
+
+os produtos da microsoft são criados para atender às demandas mais rigorosas de segurança e privacidade dos clientes
+
+[ofertas de conformidade]
+a microsoft oferece a mais abrangente de ofertas de conformidade (incluindo certificações e atestados) de qualquer provedor de serviço de nuvem
+
+
+ferramentas para os administradores darem suporte de sua organização
+
+
+os dados em transito entre usuários e datacenters microsoft estão protegidos. 
+Conexões criptografadas entre eles
+
+[pontos de extremidade públicos] protegidos usando o TLS padrão do servidor
+
+[TLS]
+oferece um navegador com segurança  avançada com o servidor 
+
+
+vantagens navegador TLS
+confidencialidade e integraldiade dos dados
+
+o acesso a API também é protegido
+
+[pontos de extremidade do servidor]
+tem que ter um TLS atualizado para acessar os pontos de extremidade do servidor
+
+
+ (RGPD) -  Regulamento Geral sobre a Proteção de Dados
+
+o RGPD da UE
+Concede direito para as pessoas gerenciarem seus dados pessoais.
+
+Relaçao da microsoft e o Regulamento geral sobre  a proteção de dados:
+Microsoft oferece suporte total
+
+[link externos, devo ler?]
+
+
+
+microsoft power platform está disponível para usuários do mundo todo
+
+[tá mal escrito, ultimo tópoco, parte das deficiências]
+
+[usuário com deficiência conseguem usar o power platforms?]
+[uma hora ele fala sobre o platform ser acessivel, ai no final fala em criação de apps acessíveis]
+
+--------
+
+Como reunir tudo
+
+
+
+como o microsoft power platform agrega valor ao negócio?
+ajudando a analisar, agir e automatizar
+
+Para agir, crie aplicativos personalizados no Power Apps
+automatize processos com base nos dados coletados no Power Automate
+analise os dados que você coletou no Power BI.
+
+
+power bi pode obter dados gerados identificando qual aparelho é usado com maior frequência e por quem
+
+em como reunir tudo veremos um exemplo prático descrito de como utilizar o power platforms
+
+
+cada negócio demanda uma solução, ver processos que ocupam tempo valioso e são um fardo para clientes e funcionários
+
+
+
+-----------------------
+
+
+
+INTRODUÇÃO AO DATAVERSE
+
+
+Características data verse
+low code
+serviço de dados
+baseado em nuvem
+
+Como é a interface do data verse?
+possui colunas padrão e tabelas
+
+Qual função do data verse?
+definir relacionamento entre os dados
+
+
+—
+
+Para que serve o dataverse?
+dá suporte a aplicativos e procesos interconectados
+
+Quais as limitações do dataverse? 
+não foi projetado para uso autonomo em seus servidores
+precisa de uma conexão com a internet para usá-lo e acessá-lo
+
+
+Por que foi criado o dataverse? 
+projetado para ser um repositório central de dados
+
+Serviço Microsoft que está por trás do power automate e power apps,  Ai builder, power platform? 
+Dataverse
+
+
+
+imagem com o que o dataverse oferece:
+https://docs.microsoft.com/pt-br/learn/modules/introduction-common-data-service/media/common-data-service-diagram.png
+
+
+
+Quais as categorias do datavers?
+segurança, lógica, dados, armazenamento, integração
+
+
+breve explicação dos recursos
+segurança - 
+autenticação com o Azure AD (Azure Active Directory) para permitir o acesso condicional e a autenticação multifator.
+recursos avançados de auditoria
+
+
+lógica
+permite aplicar facilmente a lógica de negócios no nível dos dados
+aplicação de regras
+ex: detecção de duplicidades, regras de negócio, fluxos de trabalho ou mais.
+
+
+dados:
+controle para formatar os dados
+permite - descobrir, modelar, validar e relatar
+
+armazenamento:
+armazena seus dados físicos na nuvem do Azure.
+
+
+Para que serve o dataverse? 
+ferramenta para armazenar e trabalhar com dados corporativos
+
+
+
+
+tabelas  e colunas predefinidas, dados e comumente encontrados 	em várias organizações
+você pode ir adiconando mais tabelas e colunas para personaliza-lo
+
+
+Qual dificuldade de configurar BD do dataverse? 
+facil configurarar um banco de dados do dataverse
+
+Quais preocupações o dataverse nos livra? 
+o usuário não precisa se preocupar com a infraestrutura, armazenamento e integração dos dados
+
+
+
+
+
+tabela em dataverse:
+conjunto lógico de linhas que é usado para armazenar dados. As linhas em uma tabela contêm muitas colunas para gerenciar informações individuais sobre uma única linha.
+
+
+quantas instâncias podesse criar com o dataverse?
+uma ou mais
+
+
+
+Cada instância de um Microsoft Dataverse começará a armazenar dados com o mesmo conjunto de tabelas, mas você pode estender e personalizar um banco de dados  para atender às necessidades comerciais específicas. 
+
+
+Os dados do dataverse são restritos ou compartilhsveis? 
+você pode compartilhar soluções de negócios que fazem referência a tabelas padrão no Microsoft Dataverse em sua organização ou com qualquer outra organização
+
+
+
+Escalabilidade
+compatível com grandes conjuntos e modelos de dados complexos.
+As tabelas podem conter milhões de itens
+você pode estender o armazenamento para quatro (4) terabytes por instância. 
+A quantidade de dados disponível em sua instância = tipo de licença associados a ele. 
+O armazenamento de dados é colocado em pool entre todos os usuários licenciados, 
+ Um armazenamento adicional poderá ser adquirido
+
+
+
+Common Data Model vs. Microsoft Dataverse
+O design de tabela padrão em um banco de dados do Microsoft Dataverse é baseado em um padrão de modelo de dados aberto denominado Common Data Model.
+ O Common Data Model é um design lógico que inclui um conjunto de relações e tabelas de dados extensíveis, padronizadas e de código aberto que a Microsoft
+OpenData =  Essa coleção de metadados semânticos, relacionamentos, colunas e tabelas predefinidas forma a base do Common Data Model.
+
+
+
+Estrutura e benefícios do Microsoft Dataverse
+baseada nas definições e no esquema do Common Data Model. 
+
+O principal benefício de usar o Common Data Model como base de um banco de dados do Microsoft Dataverse é a integração simplificada de qualquer solução que use um esquema do Common Data Model, porque as tabelas padrão da solução são as mesmas. 
+
+Qual limite de um banco de dados no dataverse? 
+Não há limite para estensão de um banco de dados Microsoft Dataverse. 
+
+
+---
+Identificar tabelas e colunas no Dataverse
+
+Tipos de tabelas
+Padrão, gerenciado e personalizado
+
+
+Padrão
+ tabelas prontas para uso, 
+Contas, unidade de negócios, contato, tarefa e tabelas de usuário são exemplos de tabelas padrão no Dataverse. 
+A maioria podem ser personalizadas. 
+Tabelas importadas como parte de uma solução gerenciada e definidas como personalizáveis também aparecem como tabelas padrão. Qualquer usuário com privilégios adequados pode personalizar essas tabelas desde que o personalizável seja true. 
+
+
+
+
+Gerenciado
+não são personalizáveis
+foram importadas para o ambiente como parte de uma solução gerenciada.
+
+
+Personalizado 
+As tabelas personalizadas são tabelas não gerenciadas importadas de uma solução não gerenciada ou tabelas criadas diretamente no ambiente do Dataverse. 
+Qualquer usuário com privilégios adequados pode personalizar totalmente essas tabelas.
+
+
+--
+Colunas
+forma de armazenar uma informação discreta dentro de uma linha em uma tabela. 
+
+como uma coluna no Excel. 
+
+você pode armazenar dados de um determinado tipo em uma coluna que corresponda ao tipo específico. 
+Por exemplo, em soluções que exigem valores de datas, armazene a data em uma coluna com o tipo Data. Da mesma forma, para armazenar um número, faça isso em uma coluna com o tipo Número.
+
+
+
+
+Uma tabela pode ter números de colunas variados, desde apenas algumas até centenas ou mais. 
+acima de cem colunas considere outras alternativas
+
+
+
+Cada banco de dados no Microsoft Dataverse começa com um conjunto padrão de tabelas, e cada tabela padrão tem um conjunto padrão de colunas.
+
+
+
+Dica Sempre use tabelas e colunas padrão quando possível. 
+Sempre examine a lista de tabelas padrão para garantir que todas atendem às suas necessidades antes de criar uma tabela.
+
+
+
+---
+Noções básicas sobre relações
+
+
+Para criar uma solução eficiente e escalonável
+dividir os dados em diferentes contêineres (tabelas). Tentar armazenar tudo em um único contêiner provavelmente não seria eficiente e dificultaria o trabalho e a compreensão.
+crie mais de uma tabela com suas categorias, para tornar o negócio compreensivel
+facilita a criação de relatórios e alto desempenho
+
+
+
+
+Tabelas que se relacionam entre si têm uma conexão relacional. 
+
+
+Há vários formatos de relações entre tabelas, mas os dois mais comuns são: um-para-muitos e muitos para muitos, ambos com suporte do Microsoft Dataverse.
+
+
+um-para-muitos (pai-filho).
+pode ter zero, um ou muitos itens de linha (linhas filho), mas o item de linha sempre estará relacionado a apenas uma fatura (linha pai). Normalmente, as linhas filhas não existem sem uma linha pai.
+coluna com valores exclusivos identificam a linha pai
+Essa coluna exclusiva é chamada de chave.
+O mesmo valor (a chave pai) é armazenado nas linhas filho relacionadas. Essa coluna é chamada de chave estrangeira quando a linha filho é usada para armazenar o valor da chave pai. A filtragem é usada para exibir linhas filho com um valor na chave estrangeira que corresponde ao valor de chave na linha pai. Isso permite que os aplicativos exibam as linhas filhas (itens de linha no exemplo anterior) que pertencem a uma linha pai específica (fatura no exemplo anterior). Esse conceito é a base de muitos aplicativos de software de negócios.
+
+
+dividir as informações em tabelas pode ser dificil mas a microsoft já possui o padrão de tabelas que servem em vários negócios, é mais comprovado e escalonável utilizar o padrão
+
+
+--
+Ambientes no Dataverse
+
+Ambientes são usados para armazenar, gerenciar e compartilhar dados de negócios, aplicativos e fluxos da sua organização no Microsoft Power Platform. 
+
+Cada ambiente>
+permite que você provisione um banco de dados do Microsoft Dataverse para uso nesse ambiente. 
+permitem que você gerencie o acesso do usuário, as configurações de segurança e o armazenamento associado a esse banco de dados.
+É criado em um locatário do Azure AD (Microsoft Azure Active Directory) e seus recursos só podem ser acessados pelos usuários desse locatário. 
+Um ambiente também está vinculado a um local geográfico, como os Estados Unidos. Ambiente criado em datacenter do local geográfico
+Todos os itens criados no ambiente (incluindo conexões, gateways, fluxos que estão usando o Power Automate e muito mais) também estão vinculados à localização do ambiente.
+
+Você pode criar mais de um ambiente 
+para gerenciar o desenvolvimento de soluções
+armazenamento de dados
+Pode configurar um ambiente para desenvolvimento, outro teste e um para uso na produção
+Pode configurar um ambiente com base na localização geográfica (cada um deles com 0 ou 1 instância microsoft)
+
+
+--
+Regras de negócio
+
+As regras de negócio permitem que você aplique e mantenha a lógica de negócios na camada de dados em vez da camada de aplicativo. 
+elas entrarão em vigor independentemente do local no qual você interage com os dados.
+
+
+podem ser usados para validar dados armazenados ou mostrar mensagens de erro. 
+
+
+Os aplicativos orientados por modelos podem usar regras de negócios para 
+mostrar, ocultar, habilitar ou desabilitar colunas e criar recomendações com base em business intelligence.
+
+
+maneira eficiente de impor regras, definir valores ou validar dados, independentemente do formulário usado para dados de entrada. 
+
+
+aumentar a precisão dos dados, simplificar o desenvolvimento de aplicativos e simplificar os formulários apresentados aos usuários finais.
+
+
+
+As seguintes ações de regras de negócios podem ser usadas por aplicativos baseados em tela e modelos:
+Definir valores de coluna
+Limpar valores de coluna
+Validar dados e mostrar mensagens de erro
+
+
+Os aplicativos baseados em modelos também podem usar regras de negócio para:
+Mostrar ou ocultar campos (somente aplicativos baseados em modelos)
+Habilitar ou desabilitar colunas (somente aplicativos baseados em modelos)
+Criar recomendações de negócios baseadas em business intelligence (somente aplicativos baseados em modelos)
+
+ melhor controle dos seus dados. 
+
+Isso pode garantir que a lógica de negócios seja seguida, independentemente de ela estar sendo acessada diretamente do Power Apps, do Power Automate ou até mesmo por meio de uma API. A 
+
+
+regra é vinculada aos dados, não ao aplicativo.
+
+
+
+-----------
+Administrar
+
+
+
+ rico conjunto de opções administrativas que você pode usar para criar instâncias de um banco de dados ou personalizar o acesso e os recursos disponíveis 
+
+
+
+Há vários portais administrativos do Microsoft Dataverse.
+
+
+
+O Centro de administração do Microsoft Power Platform atenderá à maioria das suas necessidades administrativas. 
+
+
+
+ Sempre verifique as configurações de administração como sua primeira etapa ao administrar o Microsoft Dataverse.
+
+
+
+
+As configurações são agrupadas nas seguintes categorias amplas
+Ambientes: esta seção lista todas as instâncias do Microsoft Dataverse.
+
+Políticas de dados: esta seção permite que você configure políticas para restringir quais conectores de dados podem ser usados com o Microsoft Dataverse de modo a limitar o fluxo de entrada e saída de dados das tabelas do Microsoft Dataverse.
+
+Integração de dados: esta seção permite que você crie ou adicione conexões predefinidas e monitore-as entre o Microsoft Dataverse e outros sistemas de armazenamentos de dados, como Salesforce ou SQL Server.
+
+
+
+
+O Centro de administração do Microsoft Power Platform permite
+ gerencie as tarefas de configuração de usuários
+ permissões e muitos outros recursos e
+ outras funcionalidades importantes do Microsoft Dataverse.
+
+
+
+regras de negocio - validar dados e mostrar mensagens de erro. Torna um campo obrigatório
+
+
+
+Faça seus dados trabalharem para você, de modo que você possa obter o máximo deles dividindo-os em partes lógicas.
+Usando o Dataverse, você pode dividir seus dados em vários ambientes para gerenciar e proteger melhor as informações importantes.
+
+
+
+-----
+
+INTRODUÇÃO AO POWERAPPS
+
+criar aplicativos que permitem executar ações em seus dados.
+
+
+ O Power Apps é ideal para substituir formulários de papel, soluções herdadas ou planilhas 
+
+
+ criar aplicativos para interagir com dados existentes 
+
+
+esses aplicativos residem na nuvem e podem ser facilmente compartilhados e executados em várias plataformas (PC e Smartphone)
+
+
+
+
+--
+O que é Power Apps e o que ele pode fazer por você
+
+modernização, compartilhr informações além do papel e excel
+
+
+
+
+
+O Power Apps é uma plataforma sem código/com código baixo usada para criar apps 
+com conceitos semelhantes a fórmulas em uma planilha do Excel como SUM e TEXT.
+
+
+Exemplo aplicação
+
+criação de formulários de inspeção de veículos 
+ relatórios de status
+ processos de compras e gerenciamento de estoque. 
+
+o Power Apps oferece recursos avançados e a possibilidade para desenvolvedores experientes criarem aplicativos complexos com facilidade.
+
+
+
+mais de 275 conectores, 
+
+Algumas fontes de dados comuns incluem:
+Dataverse
+SharePoint
+Dynamics 365
+SQL Server e Azure SQL
+Office 365
+
+
+pode trabalhar com várias fontes de dados em um app
+
+
+O Power Apps pode criar três tipos de aplicativos: tela, baseado em modelo e portais. 
+
+
+
+
+Aplicativos de tela
+ criar um app a partir de uma tela em branco.
+ Arraste e solte vários controles 
+adicione o recurso desejado escrevendo fórmulas no estilo do Excel. 
+
+
+
+
+Aplicativos baseados em modelos
+Aplicativos baseados em modelos são criados a partir de dados no Microsoft Dataverse. 
+
+Com aplicativos baseados em modelos ele é responsivo,
+Você define os relacionamentos, os formulários, as exibições, as regras de negócios e muito mais na camada de dados, 
+
+
+
+
+
+Portais
+Os portais trazem o poder das soluções sem código para criar sites externos. 
+
+você consegue criar um site anônimo ou autenticado e permitir que usuários interajam com os dados armazenados no Dataverse.
+
+recurso de arrastar para você desenvolver esses sites avançados e interativos.
+
+
+
+
+
+
+
+Adicionar inteligência artificial ao seu app sem código
+democratizou a inteligência artificial, não necessita conhecimentos em machine learning
+reconhecimento de imagens e modelos de previsão, sem lógica e códigos complexos
+você cria e treina seu modelo
+
+modelos da IA 
+ler cartão de visitas e extrair informações
+previsão com base em dados anteriores
+processador de formulários - extração de texto de uma imagem 
+Detector de objetos -identifica os objetos de uma imagem carregada ou de uma foto tirada e, em seguida, fornece uma contagem do número de objetos presentes.
+Classificação de textos -  classifica o texto por seu significado, facilitando a análise.
+
+
+
+O modelo de previsão
+AI Builder, permite prever resultados Sim ou Não com base em dados históricos. Para treinar o modelo, forneça dados históricos que incluam o resultado Sim/Não e, depois, a inteligência artificial fará o resto.
+
+Você pode criar modelos de previsão para solucionar problemas comerciais, como:
+Um cliente potencial se tornará um cliente?
+Um projeto será lucrativo?
+A rotatividade de clientes se baseará na atividade?
+
+A IA pode ajudá-lo a responder a perguntas comerciais poderosas sem escrever uma única linha de código.
+
+
+
+Segurança e Administração
+https://admin.powerplatform.microsoft.com/. Aqui, você encontrará opções para criar e gerenciar ambientes, monitorar licenças, trabalhar com políticas de Prevenção Contra Perda de Dados e gerenciar projetos de Integração de Dados do Dataverse.
+
+
+
+O Power Apps tem seu próprio conjunto de cmdlets do PowerShell para criadores de aplicativos, administradores e desenvolvedores que permitem automatizar muitas das suas tarefas administrativas. 
+
+
+
+ baixar o kit de início do Centro de Excelência, um conjunto de componentes ou ferramentas projetados para ajudar a começar a desenvolver uma estratégia de adoção e suporte do Microsoft Power Platform, com foco em Power Apps e Power Automate.
+
+
+Gerando valor do negócio
+eliminando a lista de pendências do app, processos complicados baseados em papel e muito mais.
+
+
+
+
+
+
+
+
+Com aplicativos de tela, você começa com uma tela em branco, escolhendo o tipo de dispositivo móvel ou tablet. 
+
+O Power Apps disponibiliza a capacidade de usar inteligência artificial sem escrever código. Desse modo, você pode fazer tarefas como Processamento de Formulários, Detecção de Objetos, Previsão e Classificação de Textos aproveitando a plataforma de serviços do Azure.
+
+ O Power Apps permite o controle total das fontes de dados a serem usadas em um aplicativo. Há mais de 270 conectores de dados disponíveis; além disso, é possível criar um conector de cliente, caso não exista.
+
+
+
+—--
+CRIANDO APLICATIVO DE TELA
+
+
+
+---
+tudo que precisa saber para criar seu app
+
+elementos no power apps para criar soluções
+telas, entradas, galerias, formulários e muito mais
+
+
+Power Apps Studio
+nome da interface da Web para criar seu aplicativo. Tudo é feito a partir do navegador por meio do login https://make.PowerApps.com.
+
+
+Formato do aplicativo
+A primeira etapa  escolher o formato dele: Móvel ou Tablet. 
+
+pq escolher entre móvel ou tablet?
+cada um tem padrões diferentes ao dimensionar as telas e os controles.
+
+
+controle Galerias
+exibir linhas de uma tabela de dados. permite controlar quais colunas são mostradas e como elas são formatadas. 
+
+
+Formulários
+ Os formulários permitem que um usuário não apenas exiba informações detalhadas, mas salve novos registros e edite os existentes. 
+
+
+
+Controles de Entrada
+
+exemplo de entrada de dados no power apps
+as listas suspensas, as alternâncias, os selecionadores de datas e os controles deslizantes são alguns exemplos.
+infinidade de configurações para os dados de entrada
+
+
+
+Controles Inteligentes
+Há controles de hardware que permitem acesso à câmera, ao scanner de código de barras, ao GPS e a mais recursos de hardware e outros controles para incluir a IA 
+
+
+
+Funções
+Essas fórmulas são semelhantes ao idioma usado no Excel e podem ser usadas para ações como enviar dados para uma fonte de dados, formatar informações, criar animações e muito mais. 
+
+---
+Criar um aplicativo de tela
+
+Este exemplo usa o Excel, mas lembre-se de que você pode usar dados de várias outras fontes, incluindo o Microsoft Dataverse, Microsoft SharePoint, serviços em nuvem, como o Salesforce, e fontes locais, como o Microsoft SQL Server. 
+
+conta gratuita do community plan
+https://powerapps.microsoft.com/communityplan/
+
+
+---------------------------------
+
+
+Você não precisa de fórmulas mas precisa expressar lógica e saber utilizar as fórmulas
+
+
+funções comuns e uma explicação do que elas fazem:
+
+Filtro -  restringir as linhas retornadas pela sua fonte de dados. 
+
+
+Correspondência - Essa função permite verificar um valor para ver se ele segue um determinado padrão. Você pode usá-la para verificar se o usuário inseriu um endereço de email corretamente formatado
+
+Distinguir - Essa função permite que você retorne os valores exclusivos de uma lista de dados, facilitando a criação de listas suspensas dinâmicas que mostram aos usuários somente os valores válidos para uma determinada coluna.
+
+
+
+Funções matemáticas -  fórmulas matemáticas para trabalhar com seus dados, desde as mais simples, como Somar ou Média, até mais complexas, como Atan e Sin para trabalhar com radianos.
+
+
+---
+
+você pode compartilhá-lo com usuários específicos, grupos ou toda a sua organização. 
+elas podem executá-lo em um navegador ou nos players do Apple iOS e Google Android.
+
+
+
+
+Por padrão, o usuário recebe a permissão Usuário. 
+
+Coproprietário: os usuários podem utilizar, editar e compartilhar o aplicativo, mas não podem excluir nem alterar o proprietário.
+Usuário: os usuários podem exibir e utilizar o aplicativo, mas não podem alterá-lo.
+
+
+
+você pode especificar mais permissões para um ou mais membros desse grupo para permitir um acesso maior. 
+
+
+dá para compartilhar o acesso ao app pelo email 
+
+
+
+galeria> mídia > formula função filtro
+
+Os controles de entrada permitem que o usuário digite texto, pressione um botão ou execute outras funções; Eles não são usados para exibir os dados da tabela, o que é necessário para mostrar essas linhas do SharePoint.
+
+Correto. O controle código de barras do scanner é uma parte da categoria de mídia de controles. Esse controle pode ser usado para varrer códigos de barras de vários tipos e passar informações sobre o código de barras para o aplicativo avançado. Depois, as funções adicionais podem usar essas informações de código de barras para executar tarefas adicionais.
+
+A função de filtro permite aplicar testes lógicos a uma ou mais colunas na fonte de dados. Para esse cenário, você pode filtrar dados em que a data da ordem é inferior a 90 dias.
+
+
+—--------------------
+
+
+
+
+Introdução aos aplicativos baseados em modelo
+
+
+Em aplicativos de tela, o criador de aplicativos tem controle total sobre o layout do aplicativo. Por outro lado, em aplicativos baseados em modelos, grande parte do layout é determinada pelos componentes que você adiciona, designs prontos.
+
+
+Os aplicativos baseados em modelos têm três fases de criação:
+Modelar os dados corporativos
+Definir os processos empresariais (Processos consistentes ajudam a garantir que os usuários do aplicativo possam se concentrar no trabalho e não se preocupar em lembrar de executar um conjunto de etapas manuais.) Podem mudar ao longo do tempo
+Criar o aplicativo
+Modelar os dados corporativos
+O design baseado em modelo usa uma arquitetura baseada em metadados. Os metadados significam dados sobre dados e definem a estrutura dos dados armazenados no Microsoft Dataverse.
+ 
+Blocos de construção de aplicativos baseados em modelos
+Componentes modelo app no Designer de aplicativo
+ 
+ 
+dados: tabela, coluna, relacionamento, opção
+INTERFACE DE USUÁRIO: aplicativo, mapa do site, formulário, exibir
+LÓGICA: fluxo de processo empresarial, Fluxo de trabalho, Ações, Regra de negócios, Fluxos
+VISUALIZAÇÃO: Gráfico, Painel, Microsoft Power BI inserido
+Coluna - As colunas são propriedades associadas a uma tabela e ajudam a defini-la.
+relacionamento - definem como as tabelas podem ser relacionadas umas às outras. Existem relacionamentos 1:N (um para muitos), N:1 (muitos para um) e N:N (muitos para muitos). 
+Aplicativo-   aplicativos determinam os conceitos básicos de aplicativo, como componentes, propriedades, o tipo de cliente e a URL.
+mapa do site - navegação do app
+fluxo de processo empresarial - Os fluxos de processos empresariais conduzem os usuários por um processo empresarial padrão. Use um fluxo de processo empresarial se quiser que todos tratem das solicitações de atendimento ao consumidor da mesma maneira. Ou então, você pode usar um fluxo de processo empresarial a fim de exigir que a equipe obtenha aprovação para uma fatura antes de enviar um pedido.
+ 
+fluxo de trabalho - Os fluxos de trabalho automatizam os processos empresariais sem uma interface de usuário. Os designers usam fluxos de trabalho para iniciar a automação que não requer interação do usuário.
+regras de negócio - As regras de negócios aplicam regras ou lógica de recomendação a um formulário para definir requisitos de coluna, ocultar ou mostrar campo, validar dados e muito mais. 
+fluxos - O Power Automate é um serviço baseado em nuvem que permite criar fluxos de trabalho automatizados entre aplicativos e serviços para obter notificações, sincronizar arquivos, coletar dados e muito mais.
+ 
+Projetar aplicativos baseados em modelos
+ 
+lógica de negócios
+há duas opções principais disponíveis. Você pode definir Regras de Negócios nas suas tabelas do Microsoft Dataverse ou pode criar Fluxos de Processo Empresarial.
+Regras de negócios - 
+você definirá comportamentos na camada de dados. Regras de Negócios são ótimas para definir condições para quando um campo é necessário, definir um valor padrão ou até mesmo mostrar ou ocultar um campo com base nos critérios.
+se vc preencher um campo outro abrirá
+ 
+Fluxos de Processo Empresarial-
+orientam o usuário
+experiência guiada
+[fazer  os tutoriais]
+Os direitos de acesso controlam o acesso aos dados de um usuário por meio de um conjunto de níveis de acesso e permissões
+Um ou mais direitos de acesso devem ser atribuídos ao aplicativo. limites interações com usuários.
+direitos de acesso:
+Criador de Ambiente, Administrador do Sistema, Personalizador de Sistema, Usuário do Microsoft Dataverse, Delegar
+ 
+guia propriedades para compartilhar app
+url da interface é gerada
+ 
+ 
+
+ 
+ ~------------------------
+
+POWER AUTOMATE
+
+envio de lembrentes sobre tarefas
+possui 275 fontes de dados
+
+ex aplicação:
+acessar site todas as manhãs e exportar dados
+
+
+
+
+
+permite que qualquer pessoa com conhecimento do processo empresarial crie um fluxo repetido que, ao ser disparado, age imediatamente e executa o processo.
+
+
+
+
+Cenários e recursos comuns do Power Automate:
+Automatizar tarefas repetitivas como mover dados de um sistema para outro
+Orientar um usuário para que ele possa concluir os diversos estágios de um processo
+Conexão com fontes de dados externas por meio de um conector (das centenas disponíveis) ou diretamente por meio de uma API
+
+
+
+
+ex se a solicitação de ordem de compra for maior que US$ 10.000, envie-a para o Vice-Presidente; caso contrário, aprove automaticamente a ordem de compra.
+
+
+ mais de 600 conectores
+Algumas fontes de dados comuns incluem:
+
+Microsoft Dataverse
+Salesforce
+Dynamics 365
+Google Drive
+Office 365
+
+
+
+Não é necessário escolher apenas uma fonte de dados. O Microsoft Power Platform dá suporte fácil a várias conexões de dados, permitindo que você reúna dados de várias plataformas em uma única automação.
+
+
+
+
+Os três tipos de fluxos
+
+
+Fluxos da nuvem: esses são fluxos que você cria com um gatilho e, depois, uma ou mais ações. Há uma infinidade de gatilhos e ações disponíveis, como a chegada de um email de uma pessoa específica ou uma menção à sua empresa na mídia social, graças aos conectores existentes. Eles serão exibidos como Meus fluxos e fluxos da Equipe no Power Automate.
+
+
+
+
+Fluxos de processo empresarial -  experiência orientada em seus Aplicativos baseados em modelo.
+
+Fluxos da área de trabalho: esses fluxos de RPA (automação robótica de processos) permitem que você registre a execução de ações na área de trabalho ou em um navegador da Web. 
+
+
+
+
+
+Gerando valor do negócio
+Os fluxos do Power Automate são criados com gatilhos e ações. 
+
+Os gatilhos determinam o que inicia os fluxos, e as ações determinam o que acontece. 
+
+há vários recursos de segurança, governança e emissão de relatórios para fornecer a supervisão necessária. Você pode até escrever um fluxo para gerenciar todos os outros fluxos.
+
+
+
+
+rever vídeo:
+https://docs.microsoft.com/pt-br/learn/modules/introduction-power-automate/4-power-automate-action
+
+
+
+ 
+
+
+------
+SOLUÇÃO AUTOMATIZADA
+
+ir no menu modelos
+
+os modelos podem exigir as credenciais
+
+gatilho -> ação inicial do fluxo
+um gatilho pode ser  algo como um novo email recebido na caixa de entrada ou um novo item que está sendo adicionado a uma lista do SharePoint.
+
+Ações são o que deve ocorrer quando um gatilho é invocado. Por exemplo, o novo gatilho de email iniciará a ação de criação de um arquivo no OneDrive for Business. O
+
+
+
+Loops: executa uma ação até que as condições sejam atendidas para passar para a próxima etapa do fluxo
+
+Comutador: identifica um único caso para executar com base na avaliação da entrada
+
+Fazer Até: executa um bloco de ações até que uma condição especificada seja avaliada como true
+
+Aplicar a cada: ?
+Expressões: ?
+
+
+-Disparar ou executar o fluxo
+Você executa a atividade e ela dispara o fluxo 
+
+
+Ao definir os gatilhos, há alguns tipos diferentes:
+
+Quando algo é alterado: são gatilhos que são executados quando os dados são alterados.
+Em uma agenda:  fluxo disparado em uma determinada hora de um dia e com uma recorrência. I
+
+Em um pressionamento de botão: este gatilho toma forma de várias maneiras. Isso pode ser quando um botão virtual de fluxo é executado por meio do aplicativo móvel ou um botão físico é clicado com opções de terceiros, ou mesmo quando um botão é pressionado dentro do Power Apps. Isso permite que você e/ou os usuários controlem para "executar" um fluxo sob demanda.
+
+
+
+
+------------------
+Ação redigir:
+Use a ação Redigir para evitar a inserção de dados idênticos várias vezes durante a criação de um fluxo. Por exemplo, se você precisar inserir uma matriz de dígitos: [0,1,2,3,4,5,6,7,8,9] várias vezes enquanto cria seu fluxo, você pode usar a ação "Redigir" para salvar a matriz desta maneira
+
+
+---
+-Criar um fluxo de botão
+
+tem o app do power automate, nele dá para 
+Feed de Atividades
+Navegação
+Botões
+Gerenciamento de Fluxos (acompanhar os fluxos)
+
+
+
+ativos por ação manual
+
+[seguir os exemplos]
+
+
+[o que é o sharepoint?]
+
+-Usar o centro de aprovações
+tem um centro de aprovação para gerenciar as aprovações
+tem ali um histórico das aprovações
+dá para ver o solicitante o aprovador e o resultado
+
+
+dá para exportar um fluxo na página de detalhes do fluxo
+da para exportar em formato de pacote, outros podem usa-lo quando importado
+
+
+
+
+-Criar um fluxo de processo empresarial
+
+
+Os fluxos do processo empresarial são usados para guiar um usuário pelas etapas do processo empresarial 
+
+
+
+- Editar um fluxo de processo empresarial
+dá para edita-lo
+eles podem ter até 30 estágios
+
+
+
+dá para agrupar estágios em categórias
+
+[todos os passos a passos eu devo seguir]
+
+
+
+RESPOSTAS:
+Um de seus colegas quer configurar um fluxo para gravar um item em uma lista do SharePoint ao receber um email do chefe. Qual dos itens a seguir o ajudaria a iniciar?
+Verificar se há modelos disponíveis para esse cenário. Se houver, utilizá-los; caso contrário, criar um fluxo em branco com um gatilho "Quando um email for recebido".
+
+Os fluxos instantâneos exigem a entrada do usuário, seja pelo Power Apps, por um botão de fluxo ou de outra forma. Não há nenhuma ação para "Quando um email for recebido" quando você está criando um fluxo instantâneo.
+
+
+Seu departamento deseja configurar um sistema de aprovação para itens que estão sendo gravados em uma lista do SharePoint. Você recebeu a tarefa de criar o sistema. Usando o Flow, qual é a melhor abordagem?
+Criar um fluxo de nuvem automatizado do zero e adicionar um gatilho para "Quando um novo item for criado" no SharePoint e ações para as aprovações.
+
+Embora você certamente possa abordar o problema dessa forma, é mais fácil usar os fluxos internos Aprovações do SharePoint, pois eles foram projetados para resolver esse problema. Se fosse uma fonte de dados diferente, essa poderia ser a melhor resposta.
+
+ Sua organização começou a usar vários fluxos de aprovação, e os usuários estão reclamando que têm muitas aprovações para acompanhar. Eles não sabem o que foi aprovado e o que ainda está com aprovação pendente. Qual é a maneira mais fácil para eles verificarem?
+Pedir para os usuários navegarem até o Centro de Aprovações no Power Automate.
+
+No Centro de Aprovações, os usuários poderão ver as aprovações pendentes e o histórico de aprovações em uma plataforma muito mais fácil de ler. Todas as aprovações que exigem a interação do usuário estarão disponíveis por meio do Centro de Aprovações.
+
+
+Um de seus colegas deseja postar no Twitter informações sobre itens do SharePoint que foram aprovados. Isso é possível? Em caso afirmativo, como ele faria?
+Sim, é possível. Ele pode criar um fluxo para monitorar os itens aprovados na lista do SharePoint e depois tweetar os detalhes.
+Isso foi abordado neste módulo; portanto, basta rever o módulo para saber como realizar esse procedimento.
+
+
+---------------------
+
+
+POWER BI
+
+
+pARA QUE servem os dados?
+tomar decisões sobre vendas, contratação, metas e todas as áreas para as quais têm dados. 
+
+
+Desafio interpretar os dados sem experiência prévia em análise de dados ou estatísticas. Mesmo entendendo pode ser desafiador exibir os dados de uma maneira fácil de entender e comunicá-los para outras pessoas relevantes. 
+
+O Power BI remove a intimidação e as complicações da visualização e da análise de dados. 
+interface segura e fácil de entender
+
+
+
+-O que é Power BI?
+os dados só são bons quando é possível interpretá-los e comunicar o significado deles, estamos submersos em dados
+
+
+
+O Microsoft Power BI é uma coleção de serviços de software, aplicativos e conectores que funcionam juntos para tornar suas fontes de dados não relacionadas em informações coerentes, visualmente imersivas e interativas. 
+
+
+
+
+Os elementos do Power BI
+app windows, online e app móvel
+serviço SaaS (software como serviço) 
+
+
+Conceitos do Power BI
+Os três principais blocos de construção do Power BI são: conjuntos de dados, relatórios e dashboards.
+ são todos organizados em workspaces 
+
+São criados em capacidades
+conjunto de recursos usado para hospedar e entregar seu conteúdo do Power BI
+podem ser dedicadas ou compartilhadas
+Compartilhada : +de 1 cliente microsoft
+dedicada = só 1
+
+Workspaces são contêineres para dashboards, relatórios, conjuntos de dados e fluxos de dados no Power BI. 
+Há dois tipos de workspaces: Meu workspace e workspaces.
+meu workspace - uso pessoal, 1 cliente, dá para compartilhar e colaborar 
+workspaces: compartilhamento em conjunto, pode colaborar em dashboards, relatórios e conjuntos de dados. Todos os mebmbros precisam de licenças do power bi pro
+também são os locais nos quais você cria, publica e gerencia aplicativos para sua organização. 
+
+
+aplicativo: coleção de dashboards e relatórios projetados para fornecer métricas essenciais aos consumidores do Power BI em sua organização.
+são consumiveis mas o consumidor não pode edita-lo
+consumidores não precisam de licenças pro
+
+
+
+[não entendi parte de conjunto de dados]
+
+
+
+relatório é uma ou mais páginas de visualizações como gráficos de linhas, mapas e mapas de árvore. 
+As visualizações também são chamadas de visuais. 
+dá para criar relatório do 0,  importar de paineis de colegas, ou o power bi pode cria-lo assim  que vc seconectar a conjuntos dde dados
+pega dados de certas plataformas como base para relatório
+
+
+
+exibir e interagir com relatórios: 
+Exibição de leitura e Exibição de edição. 
+Ao abrir um relatório, ele é exibido na Exibição de leitura. Se vc tiver permissão vai ter um botão para edição
+
+No workspace todos com uma função de administrador, membro ou colaborador poderão editá-lo. 
+
+guia relatório, lista de relatórios
+
+
+
+
+
+
+Painéis
+painel - criado no serviço power bi
+tela unica com blocos de widgets
+
+
+
+Por que as pessoas criam painéis? 
+para ver rapidamente todas as informações necessárias para tomar decisões.
+para monitorar as informações mais importantes sobre seus negócios.
+para garantir que todos os colegas estejam na mesma página, exibindo e usando as mesmas informações.
+para monitorar a integridade uma empresa, produto, unidade de negócios, campanha de marketing, etc.
+para criar uma exibição personalizada de um dashboard maior e mostrar todas as métricas importantes para eles.
+
+
+
+Ao abrir um workspace, os painéis associados ficam listados na guia Painéis. 
+[ler parte de dashboards]
+
+
+
+apps modelos no powerbi são produzidos pelos parceiros, sem código e implatandos aos cliente
+
+
+tem um como criar aplicativos modelo e postar no partner center no Marketplace de Aplicativos do Power BI e no Microsoft AppSource
+
+
+
+
+
+
+com o Power BI Desktop, você pode se conectar a várias fontes de dados diferentes e combiná-las
+chamamos isso de modelagem
+
+
+visualizações disponíveis no power BI
+Gráficos de barras e colunas = usados para  observar um valor específico entre categorias diferentes.
+Cartões: linha única ou múltipla
+KPIs: Exibe o progresso em direção a uma meta mensurável.
+Mapas: mapas básicos = Usados para associar informações categóricas e quantitativas a locais espaciais.
+Gráficos de pizza - mostram a relação das partes com um todo.
+Visual de P e R - permite fazer perguntas sobre dados usando a linguagem natural.
+Tabelas -  comparações quantitativas entre itens em que há várias categorias.
+
+há outros
+tem visuais personalizados no appSource para powerbi
+
+
+PAREI NA TABELA
+
+https://docs.microsoft.com/pt-br/learn/modules/introduction-power-bi/2a-data-modeling-visualizations
+
+a comunidade contribue com visuais do power bi em epostam no appsource
+
+os visuais do powerBi são testados pela microsoft, garantia de segurança, certificam os visuais
+
+no app source vc encontra apps, suplementos e extensões para os softwares da microsoft
+
+tem que saber como filtrar os dados para visualiza-los
+
+há várias formas de filtrar dados 
+1.segmentação, forma de filtrar dados simples
+dá para selecionar mais de um dado clicando em ctrl
+
+2.modificar filtros no painel filtros
+consumidores podem interagir com filtros mas não adicionar novos 
+
+quatro tipos de filtros:
+relatório, página, visual, detalhamento
+[ver detalhadamente sobre]
+
+
+botoões facilitam a interação com os dados
+
+editor do power Query -transformar dados 
+
+powerbi funciona melhor com dados vindo de colunas simples
+
+[não entendi parte formatar dados´
+[ ler mais sobre power query
+
+
+
+resultado de uma operação matemática em um dado é chamado de agregado
+tipos de dados: 
+basicamente os dados são numéricos ou não
+O Power BI pode agregar dados numéricos usando uma soma, média, contagem, mínimo, variação e muito mais
+agregar texto chamamos de dados categóricos.
+[bucket somente numérico como Valores ou Dicas de ferramenta, ????]
+
+dadas por exemplo tem proprias opções de agregação como:
+mais antigo
+mais recente
+primeiro
+ultimo
+
+
+Unidades Vendidas e Preço de Fabricação são colunas que contêm dados numéricos
+Segmento, País, Produto, Mês e Nome do Mês contêm dados categóricos
+
+
+
+[ler dnv parte Ao criar uma visualização no Power BI, o]
+
+tem que definir o campo como texto para numerico ao trabalhar com agregados
+
+[ler Mudar a forma como um campo numérico é agregado]
+
+
+
+maneiras de agregar dados:
+Não resumir, soma , média, minimo, máximo, contagem, contagem (distinto), desvio padrão, variação, mediana
+
+
+-----
+Segurança e administração
+
+ o Power BI se baseia no Azure. plataforma e a infraestrutura de computação em nuvem da Microsoft, que garante o mesmo nível de segurança para Power BI como em outros serviços da Microsoft. Os usuários entram com suas credenciais mantidas no Azure Active Directory e controlam o nível de compartilhamento para todos os relatórios, dados ou dashboards, determinando se os destinatários podem editar ou apenas exibir itens.
+
+ os usuários são responsáveis pelos dados que compartilham. 
+
+
+A administração do Power BI é o gerenciamento de um locatário do Power BI, incluindo a configuração de políticas de governança, monitoramento de uso, provisionamento de licenças, capacidades e recursos organizacionais.
+
+ O administrador é o guardião de dados, processos e políticas no locatário Power BI. Um administrador do Power BI é um membro essencial de uma equipe que inclui os desenvolvedores de BI, analistas e outras funções. 
+
+
+
+=---
+
+[ver video introdutório]
+
+Conectar aos dados
+
+ao traalhar com dados pode ser que precisamos limpa-lo
+ex: dividir e renomear colunas, alterar tipos de dados e criar relações entre colunas.
+criar relação entre as várias fontes de dados
+
+
+No momento, há mais de 110 conectores específicos do Power BI para serviços de nuvem, como GitHub e Marketo. Você também pode se conectar a fontes genéricas por meio de XML, CSV, texto e ODBC. 
+
+--
+Transformar dados
+
+
+[ver tutorial visual]
+
+--
+[ver tutorial visual]
+Visualizar dados
+
+Agora que você conectou e limpou seus dados, é hora de criar visuais. 
+visuais de dados:
+Os visuais permitem apresentar dados de maneira atrativa e criteriosa e ajudam a destacar os componentes importantes.
+visuais são lançados com frequência
+
+
+
+--
+Compilar um dashboard
+
+ dashboards no Power BI são coleções de uma página de visualizações criadas no serviço do Power BI (online).
+
+[ver tutorial visual]
+
+
+
+---
+
+Colabore e compartilhe
+O serviço do Power BI facilita o compartilhamento de conjuntos de dados, dashboards e relatórios com seus colegas. O Power BI simplifica a colaboração e melhora os resultados, permitindo que você e seus colegas trabalhem simultaneamente no mesmos dashboards e relatórios. E, embora você e seus colegas explorem os dados e façam alterações em relatórios e dashboards, os dados subjacentes não são afetados.
+
+
+--
+questões
+
+1. O que é um dashboard?
+Coleção de visualizações com uma página, criada dentro do serviço do Power BI (online).
+Um dashboard é uma ótima maneira de exibir informações e visualizações.
+
+
+2. Qual afirmativa é verdadeira em relação a adicionar comentários a um dashboard?
+Você pode usar o símbolo "@" para mencionar um colega em um comentário.
+Correto. Comentários podem ser adicionados a um dashboard inteiro ou a visualizações individuais em um dashboard. Adicione um comentário geral ou um comentário destinado a colegas específicos. Além disso, os comentários podem ser adicionados a um dashboard usando aplicativos Power BI ou Power BI Mobile.
+
+
+3. Qual é um método para criar um visual?
+Arrastar um campo da lista Campos para a tela Exibição de modelo.
+Correto. Arrastar qualquer campo da lista Campos para o espaço em branco aberto da tela (na Exibição de relatório) criará automaticamente um visual padrão para esse tipo de dados.
+
+
+
+. O Power BI Desktop é um aplicativo gratuito para PCs que permite que você reúna, transforme e visualize seus dados.
+
+-----
+
+virtual agents
+
+Introdução
+
+chatbots de IA (inteligência artificial), 
+podem resolver automaticamente os problemas comuns de clientes e internos, liberando a equipe para se concentrar em solicitações complexas e interações de alto valor. 
+sem precisar de desenvolvedores ou de cientistas de dados usando uma interface gráfica guiada e sem código. 
+ criando cenários complexos com o Microsoft Bot Framework. 
+Monitorar e melhorar continuamente o desempenho do chatbot
+
+--
+O que é o Power Virtual Agents?
+
+Aumentar a satisfação do cliente, permitindo que ele use a autoajuda e resolva problemas rapidamente, 24 horas, 7 dias por semana, por meio de conversas personalizadas e avançadas com bot.
+
+
+--
+Componentes do Power Virtual Agents
+
+Os tópicos são roteiros de conversa discretos que, quando usados em conjunto em um único chatbot, permitem que os usuários tenham uma conversa com um chatbot que parece natural e que fui de forma apropriada. 
+
+Também é fácil testar o chatbot sem precisar implantá-lo totalmente sempre que você faz uma pequena alteração. 
+um tópico define como uma conversa de chatbot é reproduzida. 
+É possível criar tópicos personalizando os modelos fornecidos, criar novos tópicos do zero ou obter sugestões de sites
+
+
+Um tópico tem frases de gatilho - são frases, palavras-chave ou perguntas que provavelmente um usuário digite relacionadas a um problema específico - e nós de conversa - são os que você usa para definir como um chatbot deve responder e o que ele deve fazer.
+
+A IA usa o reconhecimento vocal natural para analisar o que um cliente realmente digita e encontrar o nó ou a frase de gatilho mais apropriado.
+
+
+
+
+
+Usar tópicos de amostra e do sistema
+Quando você criar um chatbot, vários tópicos serão criados automaticamente para você.
+
+São eles:
+tópicos prontos para te mostrar como funciona e tópicos de sistema (n da para excluir)
+
+
+
+Entidades
+ reconhecimento vocal natural,  capacidade da IA de compreender a intenção de um usuário. 
+Por exemplo, o reconhecimento vocal natural é envolvido quando um usuário pode dizer "Eu tentei usar meu vale-presente, mas ele não funciona" e o chatbot é capaz de encaminhar o usuário para o tópico relacionado aos vales-presentes que não estão funcionando - mesmo que a frase exata não esteja listada como uma frase de gatilho.
+
+
+
+
+
+Um aspecto fundamental do reconhecimento vocal natural é identificar as entidades em uma caixa de diálogo do usuário. Uma entidade pode ser exibida como uma unidade de informação que representa um determinado tipo de assunto real, como um número de telefone, CEP, cidade ou mesmo o nome de uma pessoa.
+
+Entidades predefinidas
+ entidades predefinidas,
+ informações usadas com mais frequência em caixas de diálogo reais, como idade, cores, números e nomes.
+
+Com o conhecimento concedido por entidades, um chatbot pode reconhecer de forma inteligente as informações relevantes a partir de uma entrada do usuário e salvá-las para uso posterior.
+
+
+
+Entidades personalizadas
+em algumas ocasiões você precisará ensinar o modelo de reconhecimento vocal do chatbot um conhecimento específico do domínio.
+
+
+
+Ações
+Você pode habilitar o chatbot para executar uma ação chamando apenas um fluxo do Microsoft Power Automate. 
+
+
+Publicação
+ você pode publicar chatbots para interagir com seus clientes em várias plataformas ou canais. Isso inclui sites ativos, aplicativos móveis e plataformas de mensagens como Microsoft Teams e Facebook.
+
+
+Toda vez que quiser atualizar o chatbot, publique-o novamente pelo próprio aplicativo do Power Virtual Agents. 
+NÃO ENTENDI
+´[Você também pode configurar um chatbot do Power Virtual Agents para fornecer recursos de autenticação, de forma que os usuários possam se conectar a qualquer provedor de identidade do OAuth2, como Azure Active Directory (Azure AD), uma conta Microsoft ou Facebook.]
+
+
+--
+questões
+
+Qual é um benefício de usar o Power Virtual Agents?	
+Melhorar a satisfação do cliente
+Correto. O Power Virtual Agents pode aumentar a satisfação do cliente, permitindo que ele use a autoajuda e resolva problemas rapidamente, 24 horas, 7 dias por semana, por meio de conversas personalizadas e avançadas com chatbot.
+
+
+O que define o andamento de uma conversa com chatbot?
+Tópicos
+Correto. No Power Virtual Agents, os tópicos têm frases de gatilho e nós de conversa para definir como um chatbot deve responder e o que ele deve fazer.
+
+
+3. Onde você NÃO pode publicar um chatbot?
+YouTube
+Correto. Você pode publicar chatbots para interagir com seus clientes no Microsoft Teams, no Facebook e em aplicativos móveis.
+
+
+
+
+
