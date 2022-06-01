@@ -26,3 +26,46 @@ listar opções do menu inserir
 [img 2]
 
 https://docs.microsoft.com/pt-br/learn/modules/build-app-solution/3-build-canvas-app
+
+baixar o power apps no celular
+
+--
+salvar permite salvar no pc ou na nuvem
+botão compartilhar
+
+todos da organização basta escrever todos.
+grupo grande de usuários = criar um grupo de segurança no azure active directory
+
+
+introdução pp OK
+introdução dataverse ok
+introdução ao power apps ok
+Como criar um app de tela ok
+
+[img3]
+criar regra de negócio:
+tabelas> selecionar tabela (abrir) >Novo> Regra de negócios
+[fazer um pequeno projeto utilizando as ferramentas]
+
+
+azure active directory fica no centro de administração
+
+existe um plano da comunidade no site da microsoft que permite testar a ferramenta de maneira gratuita
+
+[listar tudo que os projetos devem conter]
+
+
+Não sei como chegar nessas telas
+https://docs.microsoft.com/pt-br/learn/modules/how-build-model-driven-app/02-model-driven-apps
+Tudo que se refere a dados é agora na categoria DataVerse
+
+os modelos estão na parte de baixo do site do apps
+
+material da microsoft desatualizado
+
+alterando campos formulário
+[img 4]
+
+
+[descrever processos dos tutoriais e buscar por si mesmo as soluções]
+
