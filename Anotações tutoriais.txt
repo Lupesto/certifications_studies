@@ -1,0 +1,134 @@
+
+===== Introdução ao Dataverse
+Dataverse > tabelas <- admin do powerapps
+
+https://docs.microsoft.com/pt-br/learn/modules/introduction-common-data-service/media/environment.png
+-Criação de regras de negócio
+-Centro de administração do power platform
+-
+
+
+===== Introdução ao Power Apps
+- uso de formulas
+- app de tela, modelo e portais
+
+
+
+===== Como criar um aplicativo de tela
+-criando app contoso apartir de fonte de dados
+-guia no power apps
+-intalar power apss celular 
+-Compartilhando app
+
+
+===== Como criar um aplicativo baseado em modelo
+- tela designer de aplicativo
+- designer de formularios
+- dashboard paineis <- designer de painel
+- adiministrar campos de um formulário
+- Nova tela a um app
+- Grupos? parte para executar relatórios
+- Dataverse-tabelas
+- exibições de um formulário
+- adicionando tabela contatos
+-Compartilhando link app/para usuário
+
+
+
+===== Introdução ao Power Automate
+
+flowmicrosoft.com
+uso do modello de form com retorno para email
+
+
+===== Como criar uma solução automatizada
+- usando fluxo de modelos
+- fluxo de nuvem agendado
+- fluxo redigir
+-fluxo de botão com lembrete celular
+- criar um fluxo de processo empresarial (consultar)
+
+
+
+===== Introdução ao Power BI
+-aplicativos de modelo
+-apresentação da interface do powerBI
+-Diferentes tipos de visualizações de informação
+- segmentação dos dados
+- botões no powerBI
+- PowerBI desktop?
+- interface powerQuery
+- limpar/transpor dados
+-Formatar dados
+-agregamento de dados
+-Vídeo com instruções
+	1. passo conectar com os dados
+	os dados vão para o powerQuery, aparecerá a aba de campos
+	o tipo de visualização possui um campo de analise
+	criação de um gráfico de dispersão
+	abertura do marketplace de visuais
+	relacionamento entre as diversas fontes de dados
+	alterações não afetam o banco de dados
+	Publicar 
+	ir para página web
+	os pins servem para criarmos os dashboards
+	tem como colaborar usando comentários
+	em compartilhar gerará o link e temos o campo para incluir usuários
+	Datasets > mais opções > exibir insights
+	cria visuais para entender-mos melhor os dados
+	 
+
+
+
+===== Como compilar um dashboard simples
+- guia de dados (powerquery?)
+https://docs.microsoft.com/pt-br/learn/modules/build-simple-dashboard/media/data-tab.png#lightbox
+
+
+- transformando dados
+-adicionando coluna personalizada
+- Salvando modificações no powerQuery com Fechar e Aplicar
+-ocultando uma coluna
+- guia dados para ver uma prévia dos dados
+-guia relações para visualizar a relação de várias tabelas
+
+- guia relatórios. OS visualizadores
+	visualizadores exigem campos
+-criando outro visualizador em uma nova página
+
+-Fixação de paineis (uso do pin)
+-adicionando comentário
+
+-criando caixa de texto
+
+-testar campo em que podemos fazer perguntas sobre nossos dados
+
+-exibição para aparelhos móveis
+- compartilhando 
+
+
+
+
+===== Introdução ao Power Virtual Agents
+
+- acessando tópicos e criando o chatbot
+https://docs.microsoft.com/pt-br/learn/modules/introduction-power-virtual-agents/media/power-virtual-agents-no-code-interface.png
+
+
+-criando um fluxo ao chamar uma ação
+https://docs.microsoft.com/pt-br/learn/modules/introduction-power-virtual-agents/media/chatbots-take-action.png#lightbox
+
+
+- Acesso menu análise
+https://docs.microsoft.com/pt-br/learn/modules/introduction-power-virtual-agents/media/monitor-analytics-page.png#lightbox
+
+
+- vendo os tópicos por lista
+https://docs.microsoft.com/pt-br/learn/modules/introduction-power-virtual-agents/media/topics-list.png#lightbox
+
+
+
+
+
+
+
