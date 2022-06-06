@@ -1,0 +1,268 @@
+certificação em português
+provas em português tanto para quem está no minha chance ou não
+
+certiport certificação
+
+nivel básico
+
+
+dashboard mostra informações da empresa e indicadores
+
+
+cai na prova aquilo que está no material oficial
+foque no material 
+
+conteúdo microsoft sempre se atualiza
+
+-------
+
+
+2mil  reais é um curso de PL
+
+
+havia curso da huawei
+
+
+prox aula n vai ser revisão e simulado?
+
+3 sem de junho será o 2 simulado
+
+pnultima semana junho será o preparatório
+
+
+
+prova certificação será aberta
+mostrar RG
+mostrar ao redor o que vc está olhando
+
+dependendo da gravidade vc fica banido de fazer prova
+
+
+
+hoje todo mundo tem acesso às vagas de emprego
+
+
+pegar o voucher e fazer o mais rápido possível
+
+
+ganha certificado do curso e a certificação é conquistada
+mais dificil certificado melhor para vc
+
+https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
+
+dá para tirar duas certificações por semestre
+
+
+PMI e COBIT são outras certificações importantes na área
+
+
+Cortisol elevado nos deixa mal em uma entrevista
+ler vídeo do TED sobre cortisol e testosterona
+
+
+componentes do power platform:
+power Bi
+power apps
+power automate
+Virtual agents
+
+builder Ai
+Conectores de dados
+dataverse
+
+
+
+ativar um serviço = consumi-lo
+
+feito em tarefas e funções
+orientado a modelo -> usar modelos para construção
+orientado a tela -> do zero
+
+criar api:
+openApi
+Personalizar em branco
+Postman <- software usado para criar apis
+
+
+relação conectar tabelas
+cardinalidade, um para muitos
+
+ambientes:
+geralmente as empresas trabalham com vários ambientes,
+teste, produção e desenvolvedor
+
+dataverse é um pedacinho em um banco de dados
+permite regra de negócios na camada de dados e aplicativos
+
+
+power apps ´permite
+criar app de tela, modelo e portais (web)
+dá para aplicar inteligência artificial e programação
+
+site anonimo todos podem entrar ou autenticado
+
+
+
+
+
+
+
+----
+no common data model 
+é um modelo do que é um aluno, imóvel... enfim
+
+a microsoft copiou as tabelas do common
+dataverse não é aberta
+
+regra de negocio esta no dataverse
+
+parei em 10min
+
+administrar power platform?
+https://admin.powerplatform.microsoft.com/home
+
+
+power app studio -> tela para criar o app
+
+galeria - linhas em uma tabela de dados
+itens que vamos adicionando no aplicativo, 
+são adicionados assim que vamos cadastrando
+
+funções é o que uni entradas e fonte de dados
+
+como prototipo é um bom negócioo
+
+controles de entrada: inserir várias coisas
+
+snippets de conteúdo, parte da página que muda.
+
+
+
+=========================================
+
+modelo de portais 
+dynamics se tive-lo
+
+1 portal para cada ambiente do dynamics?
+
+portal tem uma url exclusiva
+
+
+autorização vs autentificação
+
+autorização -> direitos aos usuários. 
+Autentificação -> Comprovar que fulano é falno
+
+
+Função da web: permissões site, regras de acesso e permissões de entidades
+
+
+
+Revisão
+
+
+componentes power platform: power bi, apps, automate, virtual agents
+Ferramentas: conectores de dados, AI builder, dataverse
+
+
+
+power apps faz: app de tela, app de modelo e portais
+
+
+O que faz o power automate?
+automatiza processos, desde simples até processos avançados. 
+
+ex de automatizaçoes: acionar ações, conceder aprovação, receber notificação
+
+[aplicativos legados?]
+
+power bi:
+informações consolidadas em um local
+power bi da ideias de como melhorar vendas, estoques, etc.
+
+
+power virtual agents:
+dá para acompanhar o desenpenho dele usando dashboards e metricas
+
+
+Dataverse tem integração com dynamics, office, azure
+
+
+temos conectores para:
+power automate, power apps, aplicativos lógicos
+
+
+
+como criar os conecores?
+personalizado em branco (a partir do zero)
+OpenAPI
+usando coleção do postman
+
+
+POWER APPS
+Tipos de fontes de dados:
+Dados tabulares e dados baseado em função
+
+
+Dado tabular:
+retorna os dados em uma tabela estruturada
+
+Dados baseados em função:
+Usa funções para interagir com a fonte de dados
+
+
+etapas
+1. estabelemos a fonte de dados
+2. configurar conector
+3. gatilhos e ações
+
+
+Gatilho pode ser temporizador, determinar horário
+DLP
+politica de perda de dados
+
+
+App para analise de dados:
+power bi
+
+
+cada ambiente podemos ter um dataverse
+uma instancia do dataverse para cada
+
+regra de negócios tb chamada de lógica de negócios
+aplicados na camada de dados
+
+ex regras de dados:
+definir valores coluna, limpar, validadr dados, mostrar mensagens de erro
+
+segurança e administração do power apps:
+site admin power platform, cmdlets powershell
+
+
+fuunções power apps:
+lógica expresa
+controle de navegação
+filtragem
+classificação
+
+
+
+para compartilhar um app é necessário:
+especificar usuários e grupos / considerar grupos de segurança
+
+em lógica de negócio também criamos os fluxos
+
+power platform pega os dados em todo local, possui muitos conectores, uso de api e permite que crie seu proprio conector
+
+
+dataverse - estruturação dos dados em tabela, tipo especifico de dados em colunas
+
+
+azure active directory - permite o acesso condicionado e autentificação em multifator
+
+
+app baseado em modelo é mais prático pois o modelo já vem responsivo para vários dispositivos
+app de tela precisa que o criador crie as diferentes versões do aplicativo
+
+ferramenta extrair palavras chave
+

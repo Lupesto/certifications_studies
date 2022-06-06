@@ -1,0 +1,43 @@
+
+1. logar azure com sua conta fat
+https://azure.microsoft.com/pt-br/
+
+email fat está aqui -> https://ensino.fundacaofat.org.br/meu-perfil/inscricoes
+
+
+2. acessar
+https://portal.azure.com/#home
+*Não clicar nos 200 doláres
+Clicar no explorar da nuvem
+
+Tela deve ser igual a esta:
+https://www.arq.ifsp.edu.br/images/conteudo/cti_tutos/azure/azure-005.png
+
+
+3. Clicar em solicitar seu crédito agora, botão azul.
+
+4. Irá para a página da Azure for students. Clicar no botão verde e preencher os formulários que pedem
+
+
+5. Acessar essa página e confirma se apareceram seus créditos:
+https://portal.azure.com/#blade/Microsoft_Azure_Education/EducationMenuBlade/overview
+
+
+
+
+
+Observações
+.Não dá para usar o crédito com certificações
+.Tudo custa na plataforma
+.Após o termino do curso da Fat a conta será encerada.
+.dá para baixar os programas da microsoft nesta tela: https://portal.azure.com/#blade/Microsoft_Azure_Education/EducationMenuBlade/software
+
+.200 doláres exige cadastro de cartão de crédito, fazer algo errado pode te prejudicar
+
+
+
+
+
+
+
+

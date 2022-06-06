@@ -1,0 +1,15 @@
+criar banco de dados no sharepoint
+criar área de formulário
+submit form em um botão
+
+
+uso do propriedade da fórmula(OnSelect)
+Adicionar Navigate ao botão
+
+Gerar nome aleatório
+Set(r;Concat(FirstN(Shuffle(Split("Matador Aranha Wolf Zombie Creeper Enderman Juninho 55 23";" "));2);Result))
+
+Criação de uma variável, uso do set para dar a ela um valor
+
+
+editar mensagem caso envio do formulário seja verdadeiro

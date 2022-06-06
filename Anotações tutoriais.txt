@@ -1,24 +1,49 @@
+[listar exercícios]
+experimentar os diversos modelos
+editar modelos
+ver como modelos funcionam
+criar telas e botões de navegação
+INSERIR
+testar inserir texto, botão, entradas, midia, gráficos, realidade misturada, galeriia, formulários, 
+o que é componente no power apps?
+o que faz o verificador de aplicativos?
+testar exibições
+Testar ações
+criar um fluxo conectado ao app
+
+
+
+
 
 ===== Introdução ao Dataverse
 Dataverse > tabelas <- admin do powerapps
 
 https://docs.microsoft.com/pt-br/learn/modules/introduction-common-data-service/media/environment.png
--Criação de regras de negócio
+-Criação de regras de negócio <- não dá
 -Centro de administração do power platform
--
+	azure active directory fica aqui
+	[img 6]
 
 
 ===== Introdução ao Power Apps
 - uso de formulas
+	if conhecendo a variável do input
+
 - app de tela, modelo e portais
+[img 7 ]
+portais é em outro app agora
+
 
 
 
 ===== Como criar um aplicativo de tela
--criando app contoso apartir de fonte de dados
+-criando app contoso apartir de fonte de dados OK 
 -guia no power apps
--intalar power apss celular 
--Compartilhando app
+https://docs.microsoft.com/pt-br/learn/modules/build-app-solution/3-build-canvas-app
+
+
+-intalar power apss celular ok
+-Compartilhando app ok
 
 
 ===== Como criar um aplicativo baseado em modelo
