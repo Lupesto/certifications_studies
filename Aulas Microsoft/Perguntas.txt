@@ -1,116 +1,360 @@
-O que o power platform faz?
+certificação em português
+provas em português tanto para quem está no minha chance ou não
+
+Emissor:
+certiport certificação
+
+nivel: básico
+
+
+O que cairá na prova de pl-900?
+material oficial no microsoft learn
+conteúdo microsoft sempre se atualiza
+
+
+
+na 3º semana de junho teremos:
+2 simulados
+
+4º semana junho:
+Preparatório
+
+
+
+Como será a prova de certificação?
+Webcam
+mostrar ao redor pela câmera
+apresentar RG
+Não tentar burlar a prova, dependendo da gravidade da punição por cola você pode ser banido de futuras certificações
+
+
+
+Quando fazer a inscrição da prova de certificação?
+assim que pegar o voucher, pois há datas disponíveis na certiport
+
+
+Quanto mais difícil um certificado mais seu valor de mercado
+
+
+
+about exam:
+https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
+
+
+Certificações interessantes na área:
+PMI e COBIT
+
+
+[material TED sobre cortisol]
+
+
+componentes do power platform:
+power Bi
+power apps
+power automate
+Virtual agents
+
+
+Ferramentas no Power platform:
+builder Ai
+Conectores de dados
+dataverse
+
+
+
+PowerApps, criação:
+orientado a modelo -> usar modelos para construção
+orientado a tela -> do zero
+Portais -> sites
+
+Como criar um conector no PowerPlatform:
+openApi
+Personalizar em branco
+Postman <- software usado para criar apis
+
+
+Como uma empresa geralmente trabalha com os ambientes no powerPlatform?
+Divisão dos ambientes entre Desenvolvimento / teste / Produção
+
+
+Onde ficam as regras de negócios?
+No dataverse
+
+
+O que é o common data model?
+Modelo criado por um consorcio para definir informações em um banco de dados que compõe por exemplo um aluno, imóvel
+O dataVerse utiliza desse modelo.
+
+O data verse é aberto?
+Não, o common sim
+
+
+Onde administrar o power platform?
+https://admin.powerplatform.microsoft.com/home
+
+O que é  o power app studio?
+tela para criar o app
+
+
+O que é uma galeria no powerApps?
+linhas em uma tabela de dados
+itens que vamos adicionando no aplicativo, 
+por exemplo: permite cadastro de itens
+
+
+
+Para que servem as funções no powerApps?
+Unir a entrada com a fonte de dados
+
+[controles de entrada]: inserir...
+
+O que são snippets de conteúdo?
+parte da página que muda.
+
+
+A url do portal no powerApps é padronizada?
+portal tem uma url exclusiva
+
+
+Diferença entre autorização e autentificação:
+autorização -> direitos aos usuários. 
+Autentificação -> Comprovar que fulano é ele mesmo
+
+
+
+
+
+
+[Função da web: permissões site, regras de acesso e permissões de entidades]
+
+
+
+
+O que faz o power automate?
+automatiza processos, desde simples até processos avançados. 
+
+
+[aplicativos legados?]
+
+
+O que o powerBI nos permite?
+informações consolidadas em um local
+
+
+Power BI insights:
+ideias de como melhorar vendas, estoques, etc.
+
+
+Como acompanhar o desempenho de um bot do virtual Agents?
+Em seu site possui dashboards e metricas
+
+
+Quais as possíveis integrações ao DataVerse?
+dynamics, office, azure
+
+
+
+
+
+
+POWER APPS
+Em PowerApps quais os tipos de fontes de dados?
+Dados tabulares e dados baseado em função
+
+O que são dados tabulares?
+retorna os dados em uma tabela estruturada
+
+
+O que é o DLP?
+politica de perda de dados
+
+
+Aplicativo do powerApps para análise de dados:
+power bi
+
+O que cada ambiente possui?
+Um ambiente no dataverse, uma instância do dataverse para cada.
+
+
+
+Como podemos definir a segurança do powerApps?
+No site admin power platform ou no powershell
+
+
+Como compartilhar um aplicativo do power?
+especificar usuários e grupos
+
+
+[Lógica de negócio? /fluxos]
+
+
+
+Como são estruturados os dados no dataverse?
+em tabelas, o tipo específico do dado está nas colunas
+
+
+
+Para que serve o azure active directory? 
+permite o acesso condicionado e autentificação em multifator
+
+Qual a vantagem em criar um app baseado em modelo?
+Já vem responsivo para vários dispositivos
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+bil gates tinha o maior número de horas programando do planeta
+site www.menti.com
+17 alunos de 56 pessoas
+App para questionário: quizz
+Há formas de comprar questões para provas de certificações
+As questões durante o curso serão com base no material oficial
+recomenda o uso de flashcards
+
+recomendação do ted [assistir]
+https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are?language=pt
+
+
+levantar os braços 1min
+reduz nível de cortisol no sangue
+
+
+testosterona - potencia, confiança
+cortisol - estresse
+
+ficar mais expandido 
+diferença no resultado da entrevista
+cortisol menor leva ao sucesso na entrevista
+
+
+---
+Login no 
+https://portal.azure.com/
+lucas.34579@pmc.fatcursos.org.br 
+
+
+a nuvem custa dinheiro
+cadastro cartão de crédito
+tudo tem valor na nuvem
+pode gerar divida no cartão de crédito clicar em algo errado
+máquina virtual ligada gera despesa por exemplo
+
+passo a passo para 100 dolares
+
+colocar a mão na massa custa
+cheio de programa gratuito pelo fat. Esse programas custam uma nota.
+
+
+roteiro de aprendizagem
+
+----
+netflix clone
+
+
+
+----
+
+aparti 9:29
+totalmente interface, aplicativo de tela
+baseado na tela
+sem código
+
+tarefas e funções torna-o mais inteligente
+a função esconde dentro dela uma complexidade
+
+existem modelos de telas
+
+
+
+O que o power platform nos permite fazer?
 permite a criação de tecnologia personalizada
 
+Quem pode desenvolver soluções para uma empresa com powerApps?
+Todos da empresa
 
-todos da empresa conseguem trabalhar com dados?
-sim
 
-
-Quais os programa do Power platform?
+Quais os programas do Power platform?
 Power Apps, Power Automate, Power BI e Power Virtual Agents.
 
-Quantos recursos o powerplatform tem?
+Quantos programas o powerplatform tem?
 4
+
+
 
 Para que serve o power apps?
 criação de aplicativos personalizados conforme a necessidade comercial
 
-Power apps: para quais dispositivos podemos criar uma aplicação?
+
+
+para quais dispositivos podemos criar um app com o power?
 qualquer um, tanto web como móveis
 
-Caracterisca integração dados com powerapps:
-integração e interação simples com os dados, interface simples
-
-Como é a usabilidade do power apps?
-qualquer usuário consegue usa-lo
 
 
 Para que serve o power automate?
-criação de fluxos de trabalhos automatizados entre aplicativos e serviços
 automatização dos processos empresariais repetitivos
 
 
 Para quem são as soluções do power automate?
-pode ser usado para o individuo como empresas
+Todos, tanto para indivíduos como para empresas.
 
-Quem consegue usar o power automate?
-Qualquer usário consegue utiliza-lo
-
-
- Power BI (Business Intelligence)
-
-Para que serve o Power BI?
-analise de dados do negócio
 
 O que o Power BI nos permite fazer?
-visualizar dados com relatórios e paineis
-
-Qual vantagem do power BI no negócio?
-permite decisões rapidas e informadas
-
-
-O que power BI nos fornece ?
-analisar e gerar novos insights
-
-
-O que é insight?
-
-O que o power BI nos retorna?
-retorno dos dados do negócio e exibição de maneira adequada
+visualizar dados com relatórios e paineis. Analisar e gerar insights
 
 
 
-Qual aplicação do power apps nos permitiria: substituir uma reunião que definiria as novas metricas da empresa, como vendas, progressão das metas e desempenho de funcionários?
+Como o power BI nos ajuda na tomada de decisões?
+as tornam mais rápidas e informadas
 
 
--------------------------------------
+
+[O que é insight?]
+
 
 Para que serve o power virtual agents? 
 permite que qualquer um crie chatbots avançados
 
-Diferente de outros chatbots, o que o power virtual agents nos permite?
-não necessita de desenvolvedores + inteface gráfica guiada
+
+
+Diferente de outros chatbots, qual a característica do virtual agents?
+não necessita de desenvolvedores e inteface gráfica guiada
 
 
 
-dá para integrar os aplicativos do power platform?
+Dá para integrar os aplicativos do power platform?
 Sim
 
 
-integração do bot com uma ação, quais aplicativos são usados?
+Quais aplicativos utilizar para integrar um bot com uma ação?
 Power automate e power virtual agents
 
-Quais os recursos que servem para aumentar o potencial do power platform?
-AI Builder e Microsoft dataverse
+
 
 
 Para que serve o Ai Builder?
 permite os usuários e desenvolvedores adicionarem recursos de IA aos fluxos de trabalho do PowerApps
-prever resultados 
+Ex: prever resultados 
 
 
 Para que serve o microsoft dataverse?
-é um modelo de dados comum
 permite que os componentes funcionem juntos 
-
-
-O que o microsoft dataverse nos permite fazer?
 consolidação, exibição e manipulação dos dados
 
 
+[275 conectores, quem tem?]
 
-Quantos conectores existe no power platform?
-mais de 275
 
 Para que servem os conectores?
-permitem conectar apps, dados e dispositivos na nuvem.
-
-qual a função dos conectores?
-ligam as informações aos comandos
+permitem conectar apps, dados e dispositivos
 
 
-5 exemplos de conectores populares no power platform:
+Quais os conectores populares no powerPlatform?
 Salesforce, Office 365, Twitter, Dropbox e serviços do Google
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 -------
@@ -1564,3 +1808,4 @@ Correto. Você pode publicar chatbots para interagir com seus clientes no Micros
 
 
 
+>>>>>>

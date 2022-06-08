@@ -1,0 +1,62 @@
+precisa de uma frase de gatilho
+
+
+[dá para colocar timer?]
+
+topicos são bloco de conversação
+
+dá para prestar serviços com essas ferramentas
+
+
+Abrir https://web.powerva.microsoft.com/
+pelo edge
+
+
+
+
+Sabores
+
+Calabresa - R$50
+Pepperoni - R$70
+Mussarela - R$50
+
+Bebidas
+
+Coca Cola - R$10
+Fanta Uva - R$10
+Fanta Laranja - R$10
+
+
+
+Qual seu pedido?
+
+
+Pedido anotado
+
+Qual seu endereço?
+
+
+
+horário loja
+quando fecha
+quando abre
+
+
+
+
+
+
+
+
+
+Escolha um número correspondente a opção desejada
+Fazer pedido -> chamar topico pedido> obrigado e recomeçar
+Acompanhar pedido -> msg txt -> obrigado -> recomeçar
+Outros -> msg de txt falar com atendente
+
+
+
+
+
+[aumentar interação com robô, evitar cliques]
+
