@@ -1,28 +1,10 @@
-bil gates tinha o maior número de horas programando do planeta
-site www.menti.com
-17 alunos de 56 pessoas
-App para questionário: quizz
-Há formas de comprar questões para provas de certificações
-As questões durante o curso serão com base no material oficial
-recomenda o uso de flashcards
+certificação em português
+provas em português tanto para quem está no minha chance ou não
 
-recomendação do ted [assistir]
-https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are?language=pt
+Emissor:
+certiport certificação
 
-testosterona - potencia, confiança
-cortisol - estresse
-
-[material TED sobre cortisol]
-ficar mais expandido 
-diferença no resultado da entrevista
-cortisol menor leva ao sucesso na entrevista
-
-[controles de entrada]: inserir...
-[aplicativos legados?]
-[Função da web: permissões site, regras de acesso e permissões de entidades]
-[Lógica de negócio? /fluxos]
-[O que é insight?]
-
+nivel: básico
 
 
 O que cairá na prova de pl-900?
@@ -31,13 +13,61 @@ conteúdo microsoft sempre se atualiza
 
 
 
-Quais as opções para se criar um aplicativo no PowerApps?
+na 3º semana de junho teremos:
+2 simulados
+
+4º semana junho:
+Preparatório
+
+
+
+Como será a prova de certificação?
+Webcam
+mostrar ao redor pela câmera
+apresentar RG
+Não tentar burlar a prova, dependendo da gravidade da punição por cola você pode ser banido de futuras certificações
+
+
+
+Quando fazer a inscrição da prova de certificação?
+assim que pegar o voucher, pois há datas disponíveis na certiport
+
+
+Quanto mais difícil um certificado mais seu valor de mercado
+
+
+
+about exam:
+https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
+
+
+Certificações interessantes na área:
+PMI e COBIT
+
+
+[material TED sobre cortisol]
+
+
+componentes do power platform:
+power Bi
+power apps
+power automate
+Virtual agents
+
+
+Ferramentas no Power platform:
+builder Ai
+Conectores de dados
+dataverse
+
+
+
+PowerApps, criação:
 orientado a modelo -> usar modelos para construção
 orientado a tela -> do zero
 Portais -> sites
 
-
-Como criar um conector no PowerPlatform?
+Como criar um conector no PowerPlatform:
 openApi
 Personalizar em branco
 Postman <- software usado para criar apis
@@ -72,9 +102,11 @@ itens que vamos adicionando no aplicativo,
 por exemplo: permite cadastro de itens
 
 
+
 Para que servem as funções no powerApps?
 Unir a entrada com a fonte de dados
 
+[controles de entrada]: inserir...
 
 O que são snippets de conteúdo?
 parte da página que muda.
@@ -84,19 +116,32 @@ A url do portal no powerApps é padronizada?
 portal tem uma url exclusiva
 
 
-Qual a diferença entre autorização e autentificação?
+Diferença entre autorização e autentificação:
 autorização -> direitos aos usuários. 
 Autentificação -> Comprovar que fulano é ele mesmo
+
+
+
+
+
+
+[Função da web: permissões site, regras de acesso e permissões de entidades]
+
+
 
 
 O que faz o power automate?
 automatiza processos, desde simples até processos avançados. 
 
 
+[aplicativos legados?]
+
+
 O que o powerBI nos permite?
 informações consolidadas em um local
 
-Que tipo de sugestões o power BI pode nos dar?
+
+Power BI insights:
 ideias de como melhorar vendas, estoques, etc.
 
 
@@ -108,6 +153,11 @@ Quais as possíveis integrações ao DataVerse?
 dynamics, office, azure
 
 
+
+
+
+
+POWER APPS
 Em PowerApps quais os tipos de fontes de dados?
 Dados tabulares e dados baseado em função
 
@@ -126,6 +176,7 @@ O que cada ambiente possui?
 Um ambiente no dataverse, uma instância do dataverse para cada.
 
 
+
 Como podemos definir a segurança do powerApps?
 No site admin power platform ou no powershell
 
@@ -134,8 +185,13 @@ Como compartilhar um aplicativo do power?
 especificar usuários e grupos
 
 
+[Lógica de negócio? /fluxos]
+
+
+
 Como são estruturados os dados no dataverse?
 em tabelas, o tipo específico do dado está nas colunas
+
 
 
 Para que serve o azure active directory? 
@@ -143,6 +199,68 @@ permite o acesso condicionado e autentificação em multifator
 
 Qual a vantagem em criar um app baseado em modelo?
 Já vem responsivo para vários dispositivos
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+bil gates tinha o maior número de horas programando do planeta
+site www.menti.com
+17 alunos de 56 pessoas
+App para questionário: quizz
+Há formas de comprar questões para provas de certificações
+As questões durante o curso serão com base no material oficial
+recomenda o uso de flashcards
+
+recomendação do ted [assistir]
+https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are?language=pt
+
+testosterona - potencia, confiança
+cortisol - estresse
+
+ficar mais expandido 
+diferença no resultado da entrevista
+cortisol menor leva ao sucesso na entrevista
+
+
+---
+Login no 
+https://portal.azure.com/
+lucas.34579@pmc.fatcursos.org.br 
+
+
+a nuvem custa dinheiro
+cadastro cartão de crédito
+tudo tem valor na nuvem
+pode gerar divida no cartão de crédito clicar em algo errado
+máquina virtual ligada gera despesa por exemplo
+
+passo a passo para 100 dolares
+
+colocar a mão na massa custa
+cheio de programa gratuito pelo fat. Esse programas custam uma nota.
+
+
+roteiro de aprendizagem
+
+----
+netflix clone
+
+
+
+----
+
+aparti 9:29
+totalmente interface, aplicativo de tela
+baseado na tela
+sem código
+
+tarefas e funções torna-o mais inteligente
+a função esconde dentro dela uma complexidade
+
+existem modelos de telas
+
 
 
 O que o power platform nos permite fazer?
@@ -159,12 +277,15 @@ Quantos programas o powerplatform tem?
 4
 
 
+
 Para que serve o power apps?
 criação de aplicativos personalizados conforme a necessidade comercial
 
 
+
 para quais dispositivos podemos criar um app com o power?
 qualquer um, tanto web como móveis
+
 
 
 Para que serve o power automate?
@@ -179,16 +300,23 @@ O que o Power BI nos permite fazer?
 visualizar dados com relatórios e paineis. Analisar e gerar insights
 
 
+
 Como o power BI nos ajuda na tomada de decisões?
 as tornam mais rápidas e informadas
+
+
+
+[O que é insight?]
 
 
 Para que serve o power virtual agents? 
 permite que qualquer um crie chatbots avançados
 
 
+
 Diferente de outros chatbots, qual a característica do virtual agents?
 não necessita de desenvolvedores e inteface gráfica guiada
+
 
 
 Dá para integrar os aplicativos do power platform?
@@ -197,6 +325,8 @@ Sim
 
 Quais aplicativos utilizar para integrar um bot com uma ação?
 Power automate e power virtual agents
+
+
 
 
 Para que serve o Ai Builder?
@@ -219,36 +349,47 @@ permitem conectar apps, dados e dispositivos
 Quais os conectores populares no powerPlatform?
 Salesforce, Office 365, Twitter, Dropbox e serviços do Google
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
+-------
+Conectores de dados
 
-
-O que são conectores?
+Qual analogia podemos utilizar para os conectores?
 são uma ponte entre da fonte de dados para o app ou fluxo de trabalho
 
 
 Quais os beneficios dos conectores?
-estender as soluções em várias plataformas, mais funcionalidade para os usuários
+estender as soluções em várias plataformas + funcionalidade para os usuários
 
 
 quais os dois tipos de fontes de dados?
 dados tabulares e baseado em função
 
 O que são dados tabulares?
-Dados em um formato de tabela
+retorna dados em um formato de tabela
 
 
 O que o power apps pode fazer com as fontes de dados tabulares?
 se permitido o power apps pode editar, alterar e excluir dados da fonte de dados
-
-
+exemplos: Microsoft Dataverse, o SharePoint e o SQL Server
 
 
 O que são dados baseados em função?
 que usam funções para interagir com fonte de dados
 
 
+O que podemos fazer com dados baseados em funções?
+usar funções que podem ser usadas para retornar uma tabela de dados
+é mais abrangente, podem por exemplo enviar email, atualizar permisão, criar evento de calendário...
 
+
+exemplos de dados baseados em funções:
+Usuários do Office 365, Project Online e Armazenamento de Blobs do Azure.
+
+
+
+-----
 
 Como são divididos os conectores?
 são divididos em padrão e premium.
@@ -259,29 +400,53 @@ são SharePoint, Outlook e YouTube
 
 
 Quais exemplos de conectores premium?
-SQL Server, Survey Monkey e Mail Chimp. 
+ são SQL Server, Survey Monkey e Mail Chimp. 
 
 
+[não entendi]
+Appsource instalar app e usar conectores para serviços que não são da microsoft
 
+podem fornecer a entrada e saída para o platform
+[Dynamics 365]
 
 [SharePoint]
 
+serviços do azure também possuem conectores
+ex: oferece tecnicas avançadas de IA, leitura de textos ou serviços cognitivos como reconhecer rostos 
 
 
+tudo do platform pode ser integrado ao Microsoft 365
+no teams por exemplo  o usuário pode executar o power automate apartir de alguma ação feita no teams
 
 
-para que serve o gatilho? 
-informa ao fluxo de trabalho quando ele deve ser executado
+GATILHOS E AÇÕES
+
+1º estabelecemos uma fonte de dados e configuramos o conector
+
+operações que podemos fazer depois disso: gatilhos ou ações
 
 
+gatilhos - só usados no power automate
+podem ser baseados em tempo (ex: fluxo que começa todos os dias às 8am) ou pdoe ser uma ação como receber um email
+
+para que serve o gatilho: informa ao fluxo de trabalho quando ele deve ser executado
+
+
+Ações - usadas no power automate e power apps
+são solicitadas pelo usuário ou gatilho
+
+permite a interação com a fonte de dados por alguma função
+ex: ação pode enviar um email no seu fluxo de trabalho ou app
 
 [fluxo de trabalho]
 
 
 
+CONECTORES PERSONALIZADOS
 
 Quais possibilidades com conectores? 
-vc pode criar um conector personalizado, api.
+vc pode criar um conector personalizado
+pode chamar uma api
 
 
 Significado API
@@ -293,25 +458,43 @@ conectores recebem e retornam informações por meio de apis
 
 
 
-Qual a responsabilidade do administrador de power platform em uma organização? 
+------------------------------------------
+Prevenção contra perda de dados, conformidade, privacidade e acessibilidade
+
+
+Qual a responsabilidade do administrador em uma organização? 
 administrador é responsável pelos dados da organização
 
 
-resultado do bom uso dos dados em uma organização:
+O que os dados podem nos permitir? 
 uso dos apps e automação para usar os dados podem levar a empresa ao sucesso
 
 
 
-dlp
-politicas de prevenção contra perda de dados
 
+os usuários tb poderão executar ações que utilizam os dados em tempo real
+
+
+
+fonte de dados/serviços para os apps é cada vez maior
+
+quais tipos de dados e serviço?
+podem ser serviços terceirizados, externos e redes sociais
+
+
+os dados podem vazar para serviços e públicos alvo que não deveriam ter acesso a eles
+
+
+[o que é dlp]
 
 para que servem as políticas de prevenção contra perda de dados?
 ajudam que evite que os usuários exponham os dados da empresa acidentalmente
 
 
-Como deve ser o nível das políticas de segurança?
+seus níveis são definidos conforme o ambiente
 tornando flexivel as politicas criteriozas. Equilibrio entre proteção e produtividade.
+
+[nível locatário?]
 
 
 
@@ -319,11 +502,11 @@ como podem ser classificados os conectores?
 comerciais e não comerciais
 
 
-O que são conectores comerciais?
+conectores comerciais:
 hospedam dados de uso comercial
 
 
-O que são conectores não comerciais?
+conectores não comerciais:
 hospedam dados de uso pessoal
 
 
@@ -336,47 +519,100 @@ são colocados no grupo não comercial por padrão
 Depois podem ser definidos como comercial ou bloqueado
 
 
+[tirar dúvida sobre o terceiro paragráfo, ver se minhas questões estão corretas]
+quem pode criar uma política DLP?
+o administrador de locatário ou administrador de ambiente
+
 quando podemos gerenciar os conectores?
 ao criar ou modificar a política DLP 
 
 como modifica a política de DLP?
 No centro de administração da microsoft power platform
 
+----
+Conformidade e privacidade dos dados
 
 Quanto aos dados,  qual o compromisso da microsoft?
 altos níveis de segurança, transparência, conformidade com padrões e normas regulatórias
 
 
-Observação sobre os dados trocados entre usuários e datacenters da microsoft:
-são protegidos. Conexões criptografadas entre eles
-protegidos usando o [TLS] padrão do servidor
+os produtos da microsoft são criados para atender às demandas mais rigorosas de segurança e privacidade dos clientes
+
+[ofertas de conformidade]
+a microsoft oferece a mais abrangente de ofertas de conformidade (incluindo certificações e atestados) de qualquer provedor de serviço de nuvem
 
 
+ferramentas para os administradores darem suporte de sua organização
 
 
-Quais as vantagens do navegador TLS?
+os dados em transito entre usuários e datacenters microsoft estão protegidos. 
+Conexões criptografadas entre eles
+
+[pontos de extremidade públicos] protegidos usando o TLS padrão do servidor
+
+[TLS]
+oferece um navegador com segurança  avançada com o servidor 
+
+
+vantagens navegador TLS
 confidencialidade e integraldiade dos dados
 
+o acesso a API também é protegido
+
+[pontos de extremidade do servidor]
+tem que ter um TLS atualizado para acessar os pontos de extremidade do servidor
 
 
-O que é RGPD?
-Regulamento Geral sobre a Proteção de Dados
+ (RGPD) -  Regulamento Geral sobre a Proteção de Dados
 
-
-O que diz o RGPD da União Europeia?
+o RGPD da UE
 Concede direito para as pessoas gerenciarem seus dados pessoais.
 
+Relaçao da microsoft e o Regulamento geral sobre  a proteção de dados:
+Microsoft oferece suporte total
+
+[link externos, devo ler?]
 
 
-como o microsoft power platform agrega valor ao negócio? AAA
+
+microsoft power platform está disponível para usuários do mundo todo
+
+[tá mal escrito, ultimo tópoco, parte das deficiências]
+
+[usuário com deficiência conseguem usar o power platforms?]
+[uma hora ele fala sobre o platform ser acessivel, ai no final fala em criação de apps acessíveis]
+
+--------
+
+Como reunir tudo
+
+
+
+como o microsoft power platform agrega valor ao negócio?
 ajudando a analisar, agir e automatizar
+
 Para agir, crie aplicativos personalizados no Power Apps
 automatize processos com base nos dados coletados no Power Automate
 analise os dados que você coletou no Power BI.
 
 
+power bi pode obter dados gerados identificando qual aparelho é usado com maior frequência e por quem
 
-Características do data verse:
+em como reunir tudo veremos um exemplo prático descrito de como utilizar o power platforms
+
+
+cada negócio demanda uma solução, ver processos que ocupam tempo valioso e são um fardo para clientes e funcionários
+
+
+
+-----------------------
+
+
+
+INTRODUÇÃO AO DATAVERSE
+
+
+Características data verse
 low code
 serviço de dados
 baseado em nuvem
@@ -388,6 +624,7 @@ Qual função do data verse?
 definir relacionamento entre os dados
 
 
+—
 
 Para que serve o dataverse?
 dá suporte a aplicativos e procesos interconectados
@@ -400,6 +637,9 @@ precisa de uma conexão com a internet para usá-lo e acessá-lo
 Por que foi criado o dataverse? 
 projetado para ser um repositório central de dados
 
+Serviço Microsoft que está por trás do power automate e power apps,  Ai builder, power platform? 
+Dataverse
+
 
 
 imagem com o que o dataverse oferece:
@@ -407,25 +647,38 @@ https://docs.microsoft.com/pt-br/learn/modules/introduction-common-data-service/
 
 
 
-O que podemos fazer no Dataverse? 
-aplicar facilmente a lógica de negócios no nível dos dados
+Quais as categorias do datavers?
+segurança, lógica, dados, armazenamento, integração
+
+
+breve explicação dos recursos
+segurança - 
+autenticação com o Azure AD (Azure Active Directory) para permitir o acesso condicional e a autenticação multifator.
+recursos avançados de auditoria
+
+
+lógica
+permite aplicar facilmente a lógica de negócios no nível dos dados
 aplicação de regras
 ex: detecção de duplicidades, regras de negócio, fluxos de trabalho ou mais.
 
 
+dados:
+controle para formatar os dados
+permite - descobrir, modelar, validar e relatar
 
-
-Onde ficam armazenados os dados do power platform?
- na nuvem do Azure.
+armazenamento:
+armazena seus dados físicos na nuvem do Azure.
 
 
 Para que serve o dataverse? 
-ferramenta para armazenar e trabalhar com dados de várias fontes
+ferramenta para armazenar e trabalhar com dados corporativos
 
 
 
-O que são tabelas e colunas predefinidas?
-Tabelas com espaços para dados comumente encontrados em várias organizações
+
+tabelas  e colunas predefinidas, dados e comumente encontrados 	em várias organizações
+você pode ir adiconando mais tabelas e colunas para personaliza-lo
 
 
 Qual dificuldade de configurar BD do dataverse? 
@@ -435,11 +688,17 @@ Quais preocupações o dataverse nos livra?
 o usuário não precisa se preocupar com a infraestrutura, armazenamento e integração dos dados
 
 
+
+
+
+tabela em dataverse:
+conjunto lógico de linhas que é usado para armazenar dados. As linhas em uma tabela contêm muitas colunas para gerenciar informações individuais sobre uma única linha.
+
+
 quantas instâncias podesse criar com o dataverse?
 uma ou mais
 
 
---------------------------
 
 Cada instância de um Microsoft Dataverse começará a armazenar dados com o mesmo conjunto de tabelas, mas você pode estender e personalizar um banco de dados  para atender às necessidades comerciais específicas. 
 
@@ -501,25 +760,29 @@ As tabelas personalizadas são tabelas não gerenciadas importadas de uma soluç
 Qualquer usuário com privilégios adequados pode personalizar totalmente essas tabelas.
 
 
+--
+Colunas
+forma de armazenar uma informação discreta dentro de uma linha em uma tabela. 
 
+como uma coluna no Excel. 
 
-Dataverse: Como devemos armazenar as informações em uma coluna?
-Respeitando seu tipo
-O armazenamento da informação na cluna deve corresponder com seu tipo específico. 
-ex: números em coluna de números
-
-
-Quantas colunas podemos ter em uma tabela do dataverse?
-Mais de centenas, mas considere outras alternativas em caso de grandes quantidades.
-
-
-O que acompanha o dataverse ao incia-lo?
-Conjunto padrão de tabelas e colunas
-Sempre utilize as tabelas padrões quando possível
+você pode armazenar dados de um determinado tipo em uma coluna que corresponda ao tipo específico. 
+Por exemplo, em soluções que exigem valores de datas, armazene a data em uma coluna com o tipo Data. Da mesma forma, para armazenar um número, faça isso em uma coluna com o tipo Número.
 
 
 
 
+Uma tabela pode ter números de colunas variados, desde apenas algumas até centenas ou mais. 
+acima de cem colunas considere outras alternativas
+
+
+
+Cada banco de dados no Microsoft Dataverse começa com um conjunto padrão de tabelas, e cada tabela padrão tem um conjunto padrão de colunas.
+
+
+
+Dica Sempre use tabelas e colunas padrão quando possível. 
+Sempre examine a lista de tabelas padrão para garantir que todas atendem às suas necessidades antes de criar uma tabela.
 
 
 
@@ -1123,11 +1386,16 @@ dá para exportar um fluxo na página de detalhes do fluxo
 da para exportar em formato de pacote, outros podem usa-lo quando importado
 
 
-Para que servem os fluxos de processso empresarial?
-para guiar o usuário
 
 
-Observações sobre o fluxo de processo empresarial:
+-Criar um fluxo de processo empresarial
+
+
+Os fluxos do processo empresarial são usados para guiar um usuário pelas etapas do processo empresarial 
+
+
+
+- Editar um fluxo de processo empresarial
 dá para edita-lo
 eles podem ter até 30 estágios
 

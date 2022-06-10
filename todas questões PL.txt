@@ -1,0 +1,159 @@
+
+QUal aplicativo pode ajudar nos a aumentar seguidores e retweets no twitter?
+Power BI, pois permite gerar relatórios sobre os dados do twitter
+
+
+
+
+Sua equipe está frustrada com o número de vezes que precisa executar a entrada básica de dados na inicialização do projeto. Há muitas divisões que precisam das informações e às vezes o erro humano resulta em problemas, dificultando a compreensão das informações. Qual é o programa mais útil nessa situação?
+O Power Automate pode criar fluxos de trabalho automatizados de informações para que a entrada de dados só precise ocorrer uma vez.
+
+
+Alguém adicionou um item no SharePoint que solicita a execução de um fluxo de trabalho no Power Automate. Que tipo de operação você usou para iniciar o fluxo de trabalho?
+Gatilho
+
+
+Um cliente gosta da ideia de implementar uma solução do Microsoft Power Platform, mas está preocupado com a capacidade de interagir com uma API personalizada. Como você deve responder?
+
+O Microsoft Power Platform oferece a capacidade de criar conectores personalizados para essa finalidade, permitindo estabelecer conexão com o Power Apps e o Power Automate.
+
+
+Alguém pede para você descrever um conector. Como você responderia?
+Os conectores ligam a fonte de dados a um aplicativo, fluxo de trabalho ou painel.
+
+
+
+Como as regras de negócios podem ser usadas em aplicativos de tela e baseados em modelos?
+Para validar dados e mostrar mensagens de erro.
+
+
+ Seu gerente criou uma solução com o Microsoft Dataverse usando algumas das tabelas padrão de configuração inicial. Ele deseja capturar a data em que os novos registros são adicionados à Entidade, mas não tem certeza de como fazer isso. Ele observa que já existe um campo "Data" dentro de sua Entidade, mas deseja que o campo tenha um nome personalizado de "Data de confirmação". O que você recomendaria?
+
+Usar a coluna Data interna na tabela para armazenar os valores de data, mas renomear a coluna para "Data de Confirmação".
+
+
+Um de seus colegas de trabalho configurou um aplicativo baseado em modelos usando o Dataverse. O aplicativo captura informações sobre os ativos de hardware do computador, incluindo seu preço. Seu colega de trabalho está preocupado que os usuários do aplicativo possam se esquecer de preencher o centro de custo, caso este seja dispensável. Como evitar isso?
+
+Usar uma Regra de Negócio para tornar o campo do centro de custo obrigatório se o campo dispensável for verdadeiro.
+
+
+ Você deseja criar um aplicativo móvel que permita o controle total do design e da experiência do usuário. Que tipo de aplicativo do Power Apps você deve criar?
+Um aplicativo de tela
+
+
+ Os requisitos do projeto requerem a capacidade de tirar uma foto de uma peça e identificar qual é o modelo. Não sendo um cientista de dados nem um desenvolvedor, como você pode adicionar esse recurso ao seu aplicativo?
+
+Treine e use um modelo de Detecção de Objetos em seu aplicativo com o AI Builder.
+
+
+
+Como as fontes de dados podem ser usadas com os aplicativos de tela do Power Apps?
+O Power Apps pode usar várias fontes de dados internas e externas no mesmo aplicativo.
+
+
+
+Sua equipe de vendas tem a necessidade de um aplicativo móvel que exiba linhas em uma lista do SharePoint. Ao exibir os registros, várias partes de informação sobre cada registro precisam ser visíveis para o usuário. Qual das seguintes ferramentas do Power Apps você usaria ao criar seu aplicativo para ter essa funcionalidade?
+
+Criar uma galeria para exibir as linhas de venda.
+
+
+
+Você foi desconectado com a criação de um aplicativo de energia que pode digitalizar códigos de barras que exibirão as informações do item verificado na tela. Das opções de controle a seguir, sobre as quais o scanner de código de barras cairá?
+
+Mídia
+
+
+Você tem um controle de galeria no seu aplicativo para exibir todas as ordens de cliente. Seu gerente informa que também quer ver as ordens dos últimos 90 dias. Como você reduziria a quantidade de dados que vê?
+Crie uma fórmula para sua galeria que use a função de filtro.
+
+
+
+Quando você cria um aplicativo baseado em modelo, qual designer é usado para definir a navegação de seu aplicativo?
+Designer de mapa do site
+
+
+Para criar um processo ou um procedimento padrão para lidar com solicitações de serviço, que tipo de lógica seria melhor implementar?
+Fluxo de processo empresarial
+
+
+Quando você deseja compartilhar um aplicativo baseado em modelo, qual das seguintes afirmações é verdadeira?
+Os usuários precisam ser adicionados a uma função de segurança predefinida ou personalizada, e uma ou mais funções de segurança precisam ser associadas ao aplicativo.
+
+
+
+. Para proteger e administrar o Power Automate, quais recursos podem ser usados?
+O Power Automate pode ser administrado na Web, por meio do PowerShell ou até por meio da criação de fluxos.
+
+
+ Onde você encontra modelos de fluxo?
+
+Diretamente no site do construtor do Power Automate.
+
+
+ Como as fontes de dados podem ser usadas com o Power Automate?
+O Power Automate pode se conectar a fontes de dados usando um dos mais de 600 conectores predefinidos, ou você pode criar seu próprio conector personalizado.
+
+
+
+
+Um de seus colegas quer configurar um fluxo para gravar um item em uma lista do SharePoint ao receber um email do chefe. Qual dos itens a seguir o ajudaria a iniciar?
+
+Verificar se há modelos disponíveis para esse cenário. Se houver, utilizá-los; caso contrário, criar um fluxo em branco com um gatilho "Quando um email for recebido".
+
+
+Seu departamento deseja configurar um sistema de aprovação para itens que estão sendo gravados em uma lista do SharePoint. Você recebeu a tarefa de criar o sistema. Usando o Flow, qual é a melhor abordagem?
+Gerar um fluxo de aprovação com a funcionalidade interna Aprovações do SharePoint na lista do SharePoint.
+
+
+Sua organização começou a usar vários fluxos de aprovação, e os usuários estão reclamando que têm muitas aprovações para acompanhar. Eles não sabem o que foi aprovado e o que ainda está com aprovação pendente. Qual é a maneira mais fácil para eles verificarem?
+Pedir para os usuários navegarem até o Centro de Aprovações no Power Automate.
+
+
+Um de seus colegas deseja postar no Twitter informações sobre itens do SharePoint que foram aprovados. Isso é possível? Em caso afirmativo, como ele faria?
+Sim, é possível. Ele pode criar um fluxo para monitorar os itens aprovados na lista do SharePoint e depois tweetar os detalhes.
+
+
+
+O Power BI ajuda com qual dos processos de negócios a seguir?
+Analisar e exibir dados.
+
+De qual maneira o Power BI pode ajudar você a aproveitar seus dados de forma eficaz?
+Todas as opções acima.
+
+Quais são as três modalidades do Power BI que foram projetadas para que as pessoas possam criar, compartilhar e consumir informações de negócios da maneira mais proveitosa para elas ou para suas respectivas funções?
+Desktop, serviço e aplicativos móveis.
+
+
+
+O que é um dashboard?
+Coleção de visualizações com uma página, criada dentro do serviço do Power BI (online).
+
+
+Qual afirmativa é verdadeira em relação a adicionar comentários a um dashboard?
+Você pode usar o símbolo "@" para mencionar um colega em um comentário.
+
+Qual é um método para criar um visual?
+Arrastar um campo da lista Campos para a tela Exibição de modelo.
+
+
+ Qual é um benefício de usar o Power Virtual Agents?
+Melhorar a satisfação do cliente
+
+
+O que define o andamento de uma conversa com chatbot?
+Tópicos
+
+
+Onde você NÃO pode publicar um chatbot?
+YouTube
+
+
+
+
+
+
+
+
+
+
+
