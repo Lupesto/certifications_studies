@@ -25,10 +25,27 @@ cortisol menor leva ao sucesso na entrevista
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 O que cairá na prova de pl-900?
 material oficial no microsoft learn
 conteúdo microsoft sempre se atualiza
-
 
 
 Quais as opções para se criar um aplicativo no PowerApps?
@@ -119,7 +136,7 @@ O que é o DLP?
 politica de perda de dados
 
 
-Aplicativo do powerApps para análise de dados:
+Qual aplicativo do powerApps para análise de dados?
 power bi
 
 O que cada ambiente possui?
@@ -209,18 +226,12 @@ permite que os componentes funcionem juntos
 consolidação, exibição e manipulação dos dados
 
 
-[275 conectores, quem tem?]
-
-
 Para que servem os conectores?
 permitem conectar apps, dados e dispositivos
 
 
 Quais os conectores populares no powerPlatform?
 Salesforce, Office 365, Twitter, Dropbox e serviços do Google
-
-
-
 
 
 O que são conectores?
@@ -243,11 +254,8 @@ se permitido o power apps pode editar, alterar e excluir dados da fonte de dados
 
 
 
-
 O que são dados baseados em função?
 que usam funções para interagir com fonte de dados
-
-
 
 
 Como são divididos os conectores?
@@ -262,22 +270,8 @@ Quais exemplos de conectores premium?
 SQL Server, Survey Monkey e Mail Chimp. 
 
 
-
-
-[SharePoint]
-
-
-
-
-
 para que serve o gatilho? 
 informa ao fluxo de trabalho quando ele deve ser executado
-
-
-
-[fluxo de trabalho]
-
-
 
 
 Quais possibilidades com conectores? 
@@ -292,14 +286,12 @@ O que conectores nós permite fazer?
 conectores recebem e retornam informações por meio de apis
 
 
-
 Qual a responsabilidade do administrador de power platform em uma organização? 
 administrador é responsável pelos dados da organização
 
 
 resultado do bom uso dos dados em uma organização:
 uso dos apps e automação para usar os dados podem levar a empresa ao sucesso
-
 
 
 dlp
@@ -327,9 +319,9 @@ O que são conectores não comerciais?
 hospedam dados de uso pessoal
 
 
-
 Quando os conectores são classificados como bloqueados?
 conectores que desejamos restringir o uso
+
 
 Por padrão qual a classificação dos conectores quando uma nova política é criada?
 são colocados no grupo não comercial por padrão
@@ -352,11 +344,8 @@ são protegidos. Conexões criptografadas entre eles
 protegidos usando o [TLS] padrão do servidor
 
 
-
-
 Quais as vantagens do navegador TLS?
 confidencialidade e integraldiade dos dados
-
 
 
 O que é RGPD?
@@ -367,13 +356,11 @@ O que diz o RGPD da União Europeia?
 Concede direito para as pessoas gerenciarem seus dados pessoais.
 
 
-
 como o microsoft power platform agrega valor ao negócio? AAA
 ajudando a analisar, agir e automatizar
 Para agir, crie aplicativos personalizados no Power Apps
 automatize processos com base nos dados coletados no Power Automate
 analise os dados que você coletou no Power BI.
-
 
 
 Características do data verse:
@@ -388,7 +375,6 @@ Qual função do data verse?
 definir relacionamento entre os dados
 
 
-
 Para que serve o dataverse?
 dá suporte a aplicativos e procesos interconectados
 
@@ -401,10 +387,8 @@ Por que foi criado o dataverse?
 projetado para ser um repositório central de dados
 
 
-
 imagem com o que o dataverse oferece:
 https://docs.microsoft.com/pt-br/learn/modules/introduction-common-data-service/media/common-data-service-diagram.png
-
 
 
 O que podemos fazer no Dataverse? 
@@ -413,15 +397,12 @@ aplicação de regras
 ex: detecção de duplicidades, regras de negócio, fluxos de trabalho ou mais.
 
 
-
-
 Onde ficam armazenados os dados do power platform?
  na nuvem do Azure.
 
 
 Para que serve o dataverse? 
 ferramenta para armazenar e trabalhar com dados de várias fontes
-
 
 
 O que são tabelas e colunas predefinidas?
@@ -441,11 +422,10 @@ uma ou mais
 
 --------------------------
 
-Cada instância de um Microsoft Dataverse começará a armazenar dados com o mesmo conjunto de tabelas, mas você pode estender e personalizar um banco de dados  para atender às necessidades comerciais específicas. 
+[fluxo de trabalho]
+[SharePoint]
+[275 conectores, quem tem?]
 
-
-Os dados do dataverse são restritos ou compartilhsveis? 
-você pode compartilhar soluções de negócios que fazem referência a tabelas padrão no Microsoft Dataverse em sua organização ou com qualquer outra organização
 
 
 
@@ -457,32 +437,55 @@ A quantidade de dados disponível em sua instância = tipo de licença associado
 O armazenamento de dados é colocado em pool entre todos os usuários licenciados, 
  Um armazenamento adicional poderá ser adquirido
 
+Cada instância de um Microsoft Dataverse começará a armazenar dados com o mesmo conjunto de tabelas, mas você pode estender e personalizar um banco de dados  para atender às necessidades comerciais específicas. 
 
 
-Common Data Model vs. Microsoft Dataverse
+Os dados do dataverse são restritos ou compartilhsveis? 
+você pode compartilhar soluções de negócios que fazem referência a tabelas padrão no Microsoft Dataverse em sua organização ou com qualquer outra organização
+
+
+Common Data Model vs. Microsoft Dataverse:
 O design de tabela padrão em um banco de dados do Microsoft Dataverse é baseado em um padrão de modelo de dados aberto denominado Common Data Model.
- O Common Data Model é um design lógico que inclui um conjunto de relações e tabelas de dados extensíveis, padronizadas e de código aberto que a Microsoft
-OpenData =  Essa coleção de metadados semânticos, relacionamentos, colunas e tabelas predefinidas forma a base do Common Data Model.
+O MicrosoftDataverse utiliza esse padrão
 
 
-
-Estrutura e benefícios do Microsoft Dataverse
+Em que a estrutura do Dataverse se baseia?
 baseada nas definições e no esquema do Common Data Model. 
 
-O principal benefício de usar o Common Data Model como base de um banco de dados do Microsoft Dataverse é a integração simplificada de qualquer solução que use um esquema do Common Data Model, porque as tabelas padrão da solução são as mesmas. 
+
+Qual benefício em usar o Common Data Model?
+é a integração simplificada de qualquer solução que use um esquema do Common Data Model, porque as tabelas padrão da solução são as mesmas. 
+
 
 Qual limite de um banco de dados no dataverse? 
 Não há limite para estensão de um banco de dados Microsoft Dataverse. 
 
 
----
-Identificar tabelas e colunas no Dataverse
-
-Tipos de tabelas
+Quais os tipos de tabelas no dataverse?
 Padrão, gerenciado e personalizado
 
+Dataverse: Como devemos armazenar as informações em uma coluna?
+Respeitando seu tipo
+O armazenamento da informação na cluna deve corresponder com seu tipo específico. 
+ex: números em coluna de números
 
-Padrão
+
+Quantas colunas podemos ter em uma tabela do dataverse?
+Mais de centenas, mas considere outras alternativas em caso de grandes quantidades.
+
+
+O que acompanha o dataverse ao incia-lo?
+Conjunto padrão de tabelas e colunas
+Sempre utilize as tabelas padrões quando possível
+
+
+
+
+
+
+
+DATAVERSE
+ Padrão
  tabelas prontas para uso, 
 Contas, unidade de negócios, contato, tarefa e tabelas de usuário são exemplos de tabelas padrão no Dataverse. 
 A maioria podem ser personalizadas. 
@@ -503,19 +506,7 @@ Qualquer usuário com privilégios adequados pode personalizar totalmente essas 
 
 
 
-Dataverse: Como devemos armazenar as informações em uma coluna?
-Respeitando seu tipo
-O armazenamento da informação na cluna deve corresponder com seu tipo específico. 
-ex: números em coluna de números
 
-
-Quantas colunas podemos ter em uma tabela do dataverse?
-Mais de centenas, mas considere outras alternativas em caso de grandes quantidades.
-
-
-O que acompanha o dataverse ao incia-lo?
-Conjunto padrão de tabelas e colunas
-Sempre utilize as tabelas padrões quando possível
 
 
 
@@ -573,41 +564,38 @@ Pode configurar um ambiente com base na localização geográfica (cada um deles
 --
 Regras de negócio
 
+
+O que são regras de negócios? onde são aplicadas?
 As regras de negócio permitem que você aplique e mantenha a lógica de negócios na camada de dados em vez da camada de aplicativo. 
 elas entrarão em vigor independentemente do local no qual você interage com os dados.
 
+Podemos usar as regras de negócio para:
+validar dados armazenados ou mostrar mensagens de erro. 
 
-podem ser usados para validar dados armazenados ou mostrar mensagens de erro. 
-
-
-Os aplicativos orientados por modelos podem usar regras de negócios para 
-mostrar, ocultar, habilitar ou desabilitar colunas e criar recomendações com base em business intelligence.
-
-
-maneira eficiente de impor regras, definir valores ou validar dados, independentemente do formulário usado para dados de entrada. 
-
-
-aumentar a precisão dos dados, simplificar o desenvolvimento de aplicativos e simplificar os formulários apresentados aos usuários finais.
-
-
-
-As seguintes ações de regras de negócios podem ser usadas por aplicativos baseados em tela e modelos:
+Quais ações de regras de negócio podemos utilizar no power apps?
 Definir valores de coluna
 Limpar valores de coluna
 Validar dados e mostrar mensagens de erro
 
 
-Os aplicativos baseados em modelos também podem usar regras de negócio para:
-Mostrar ou ocultar campos (somente aplicativos baseados em modelos)
-Habilitar ou desabilitar colunas (somente aplicativos baseados em modelos)
-Criar recomendações de negócios baseadas em business intelligence (somente aplicativos baseados em modelos)
-
- melhor controle dos seus dados. 
-
-Isso pode garantir que a lógica de negócios seja seguida, independentemente de ela estar sendo acessada diretamente do Power Apps, do Power Automate ou até mesmo por meio de uma API. A 
+Quais ações de regras de negócio exclusiva para aplicativos baseados em modelos?
+Mostrar ou ocultar campos 
+Habilitar ou desabilitar colunas
+Criar recomendações de negócios baseadas em business intelligence
 
 
-regra é vinculada aos dados, não ao aplicativo.
+
+Para que servem as regras de negócio?
+Para melhorar o controle dos seus dados. 
+Garantir que a lógica de negócio ser seguida
+
+
+
+
+
+
+
+
 
 
 
@@ -699,8 +687,10 @@ criação de formulários de inspeção de veículos
 o Power Apps oferece recursos avançados e a possibilidade para desenvolvedores experientes criarem aplicativos complexos com facilidade.
 
 
+Qual aplicativo possui mais de 275 conectores?
+o power apps
 
-mais de 275 conectores, 
+
 
 Algumas fontes de dados comuns incluem:
 Dataverse
@@ -709,67 +699,76 @@ Dynamics 365
 SQL Server e Azure SQL
 Office 365
 
-
+Para que servem os conectores?
 pode trabalhar com várias fontes de dados em um app
 
 
-O Power Apps pode criar três tipos de aplicativos: tela, baseado em modelo e portais. 
 
 
 
 
-Aplicativos de tela
- criar um app a partir de uma tela em branco.
- Arraste e solte vários controles 
-adicione o recurso desejado escrevendo fórmulas no estilo do Excel. 
-
-
-
-
-Aplicativos baseados em modelos
-Aplicativos baseados em modelos são criados a partir de dados no Microsoft Dataverse. 
-
-Com aplicativos baseados em modelos ele é responsivo,
-Você define os relacionamentos, os formulários, as exibições, as regras de negócios e muito mais na camada de dados, 
+Diferença entre aplicativo de tela, baseado em modelo e portais:
+de tela: criar a partir de uma tela em branco
+baseado em modelos: Modelos disponíveis < responsivo
+Portais: Criação de sites externos
 
 
 
 
 
-Portais
-Os portais trazem o poder das soluções sem código para criar sites externos. 
-
-você consegue criar um site anônimo ou autenticado e permitir que usuários interajam com os dados armazenados no Dataverse.
-
-recurso de arrastar para você desenvolver esses sites avançados e interativos.
+É necessário ter conhecimento para trabalhar com inteligência artificial no power platform?
+O power platform democratizou a inteligência artificial
+Sem código
+não necessita conhecimentos em machine learning
 
 
 
-
-
-
-
-Adicionar inteligência artificial ao seu app sem código
-democratizou a inteligência artificial, não necessita conhecimentos em machine learning
-reconhecimento de imagens e modelos de previsão, sem lógica e códigos complexos
-você cria e treina seu modelo
-
-modelos da IA 
+Quais os modelos de IA disponíveis no power platform?
 ler cartão de visitas e extrair informações
 previsão com base em dados anteriores
-processador de formulários - extração de texto de uma imagem 
-Detector de objetos -identifica os objetos de uma imagem carregada ou de uma foto tirada e, em seguida, fornece uma contagem do número de objetos presentes.
-Classificação de textos -  classifica o texto por seu significado, facilitando a análise.
+processador de formulários
+Detector de objetos
+Classificação de textos 
 
 
+para que serve a IA: processador de formulários?
+extração de texto de uma imagem 
 
-O modelo de previsão
-AI Builder, permite prever resultados Sim ou Não com base em dados históricos. Para treinar o modelo, forneça dados históricos que incluam o resultado Sim/Não e, depois, a inteligência artificial fará o resto.
 
-Você pode criar modelos de previsão para solucionar problemas comerciais, como:
+para que serve a IA: Detector de objetos?
+identifica os objetos de uma imagem carregada ou de uma foto tirada e, em seguida, fornece uma contagem do número de objetos presentes.
+
+
+para que serve a IA: Classificação de textos?
+classifica o texto por seu significado, facilitando a análise.
+
+
+para que serve a IA: O modelo de previsão
+permite prever resultados Sim ou Não com base em dados históricos. 
+
+
+Como treinar o modelo de previsão?
+Para treinar o modelo, forneça dados históricos que incluam o resultado Sim/Não e, depois, a inteligência artificial fará o resto.
+
+
+Que ferramenta no power platform pode nos ajudar com os seguintes problemas:
 Um cliente potencial se tornará um cliente?
 Um projeto será lucrativo?
 A rotatividade de clientes se baseará na atividade?
+
+IA BUILDER, modelo de previsão
+
+
+
+
+
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Você pode criar modelos de previsão para solucionar problemas comerciais, como:
+
 
 A IA pode ajudá-lo a responder a perguntas comerciais poderosas sem escrever uma única linha de código.
 
