@@ -1,0 +1,95 @@
+
+para que serve o dynamics?
+interação, gerenciamento e atendimento clientes
+relacionamento com o clientes
+
+garantir que os funcionários tenham informações necessárias para atender os clientes
+
+garantir que os clientes continuem fazendo negócios com a organização
+
+
+conexão emocional entre o cliente e a marca
+clientes mais engajados compram mais e demonstram mais fidelidade
+
+As organizações podem criar experiências personalizadas de marketing, vendas e serviços usando os dados e a inteligência para melhorar a interação.
+
+
+5 aplicativos principais do dynamics 365 CRM:
+Marketing, Sales,Customer Service,Field Service, Project Operations,
+
+Marketing:
+permitem que os profissionais de marketing analisem e segmentem os clientes e interajam com eles.
+
+
+Sales:
+vendedores a compreender melhor em quais clientes e oportunidades de vendas eles devem se concentrar
+
+analisar, agir e automatizar a venda digital em toda a organização
+
+
+Customer Service:
+assistência aprimorada aos clientes.
+Controle das ocorrências
+
+Field Service:
+ferramentas para prestar serviços no campo
+criar ordens de serviço, agendar e enviar técnicos, executar ordens de serviços, manutenção de ativos, estoque e cobrança
+
+
+Project Operations:
+Coneção das equipes em um único aplicativo
+acelerar entrega de projetos
+ex:vendas, recursos humanos e recursos, gerenciamento de projetos e finanças
+
+Utilizando metodologia cascata/ágeis
+
+permite os gerentes de projetos terem estimativas mais precisas
+
+gerenciamento dos recursos que estão em uso
+
+
+--
+Acessar os aplicativos de participação do cliente do Dynamics 365
+
+
+Field service e Sales podem ser baixados no celular
+os técnicos de campo podem baixar o aplicativo field para acompanhar as ordens de serviços lançadas a eles ao longo do dia
+
+site para acessar os aplicativos:
+https://www.office.com/apps
+clicar em aplicativos para negócios
+
+--
+Pesquisar uma Exibição:
+https://prnt.sc/TqF_U7oizEp6
+
+Pesquisa em várias tabelas: 
+(pesquisa categorizada)
+https://prnt.sc/_3WlYx8FREwI
+
+Filtro avançado
+https://prnt.sc/NQ0eGl0NYqEF
+
+
+--
+ perguntas:
+Qual das seguintes respostas representa um aplicativo de participação do cliente do Microsoft Business Applications?
+
+opções
+Dynamics 365 Field Service
+Office 365
+Azure
+
+
+Qual das seguintes opções de pesquisa ou filtragem seria usada se você quisesse exibir uma lista de Contas com solicitações em aberto?
+
+Filtro Avançado <-
+Localização Rápida
+Pesquisa Categorizada
+
+Qual dos seguintes aplicativos de participação do cliente do Dynamics 365 provavelmente seria usado por uma empresa de construção que precisa gerenciar os trabalhos de construção em andamento e gerenciar a venda e a cotação desses trabalhos para os clientes?
+
+Microsoft Dynamics 365 Project Operations <-
+Dynamics 365 Sales
+Dynamics 365 Customer Service
+

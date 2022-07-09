@@ -1,0 +1,118 @@
+Cada um dos aplicativos do Dynamics 365 ajuda a resolver desafios comerciais específicos;  por exemplo, ajudam na automação do pipeline de vendas ou a fornecer suporte ao cliente.
+
+Dynamics 365 CRM:
+relacionamento com o cliente mais eficiente possível.
+
+Automação de vendas e gerenciamento de pipeline
+Ajudar a gerenciar ocorrências para clientes
+Oferecer suporte local a clientes
+Promover esforços de marketing
+
+
+
+Elementos comuns entre os aplicativos:
+trabalhar com registros de clientes e de atividades, 
+acessar as ferramentas de relatório disponíveis e a 
+capacidade de integrar o Dynamics 365 a outros aplicativos para fornecer uma solução completa.
+
+
+Cliente = um indivíduo ou empresa que recebe, consome ou compra um produto ou serviço.
+
+Como as organizações podem interagir com os clientes?
+B2B, B2C e Híbrido
+
+
+B2B (entre empresas): os clientes são outras empresas. 
+
+B2C (empresa para consumidor): os clientes são indivíduos. 
+
+Híbrido: os clientes podem ser empresas ou pessoas físicas. 
+
+
+No dynamics dois registros principais de clientes:
+Conta- representa uma empresa ou organização com a qual você faz negócios, como cliente, fornecedor, parceiro ou revendedor.
+
+Contato- representa uma pessoa. Um contato pode ser uma pessoa independente ou de uma organização.
+
+
+sobre as contas:
+permite ramificação de contas
+tipo> principal, contato principal...
+
+
+--
+Atividades
+rastreio comunicações com o cliente
+Registro histórico das comunicações com o cliente
+
+
+no dynamics as atividades constumam estar relacionadas ao contato e contas
+porém há exceções
+no cenário de vendas as atividades podem ser clientes potenciais, oportunidades e cotações
+
+Em atendimento, as atividades podem ser
+ocorrências, ordens de serviço ou projetos
+
+
+tem uma linha do tempo com o cliente na plataforma
+
+
+podemos filtrar as atividades
+
+--
+
+[Exercício]
+--
+
+Explorar opções de relatório do Dynamics 365
+
+
+dynamics fornece várias opções de relatórios
+São configuráveis,
+podendo aplicar direitos de acesso aos dados
+
+criar exibições permite análises dos dados que realmente te interessam
+
+graficos são visualizações rápidas. São interativos, busca detalhada por dados relevantes. 
+
+
+Painéis
+Combinação de gráfico e exibições, interpretação rápida dos dados
+
+
+relatórios
+existem modelos de relatórios ou você pode personalizar um
+Assistente de relatórios - ferramenta que auxilia na criação
+
+
+Dynamics 365 pode servir de base de dados para o power BI
+--
+
+Descrever tecnologias de integração
+
+integração com word, excel, sharepoint, outlook, microsft teams
+
+
+
+--
+Exercicio:
+
+
+Qual dos seguintes aplicativos pode ser integrado ao Dynamics 365 para fornecer recursos de gerenciamento de documentos que incluem colaboração e controle de versão?
+
+Microsoft SharePoint
+
+
+
+ Você deseja exibir relatórios no Dynamics 365 que incluam não apenas dados do Dynamics 365, mas também dados de outros aplicativos. Os relatórios devem incluir várias visualizações interativas. Os relatórios devem ser facilmente acessíveis sem a necessidade de sair do Dynamics 365. Quais dos seguintes aplicativos podem ser integrados para oferecer essa funcionalidade?
+
+
+Power BI
+
+
+ Depois de falar com um cliente, você deseja criar e agendar uma reunião com ele para discutir outras opções. É importante que a reunião esteja associada ao cliente para uso futuro. Qual recurso pronto para uso permite que você crie reuniões diretamente por meio de um registro do Dynamics 365?
+
+Essa resposta está correta porque a Linha do Tempo não apenas exibe as atividades associadas aos registros do Dynamics 365 em ordem cronológica, mas também fornece uma interface simples que pode ser usada para criar atividades como tarefas, telefonemas e reuniões.
+
+
+
